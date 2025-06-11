@@ -176,7 +176,7 @@ savedefault
 
 
 Retrieved from "[http://wiki.soekris.info/Installing\_Debian\_Linux\_%284.0r1\_Etch%29\_from\_Windows\_mini-HOWTO](https://web.archive.org/web/20180812042306/http://wiki.soekris.info/Installing_Debian_Linux_%284.0r1_Etch%29_from_Windows_mini-HOWTO)"
-[Categories](https://web.archive.org/web/20180812042306/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180812042306/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems") | [HowTo](https://web.archive.org/web/20180812042306/http://wiki.soekris.info/Category:HowTo "Category:HowTo")
+[Categories](https://web.archive.org/web/20180812042306/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180812042306/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems") | [HowTo](https://web.archive.org/web/20180812042306/http://wiki.soekris.info/Category_HowTo "Category_HowTo")
 
  
 

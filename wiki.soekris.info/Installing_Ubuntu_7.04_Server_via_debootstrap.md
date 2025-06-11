@@ -224,7 +224,7 @@ The -server kernel did not boot on my net4801.
 
 
 Retrieved from "[http://wiki.soekris.info/Installing\_Ubuntu\_7.04\_Server\_via\_debootstrap](./Special:Random.html)"
-[Categories](https://web.archive.org/web/20190329210730/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20190329210730/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems") | [HowTo](https://web.archive.org/web/20190329210730/http://wiki.soekris.info/Category:HowTo "Category:HowTo")
+[Categories](https://web.archive.org/web/20190329210730/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20190329210730/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems") | [HowTo](https://web.archive.org/web/20190329210730/http://wiki.soekris.info/Category_HowTo "Category_HowTo")
 
  
 

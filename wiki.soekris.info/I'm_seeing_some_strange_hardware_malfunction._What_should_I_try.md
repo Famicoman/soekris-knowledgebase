@@ -45,7 +45,7 @@ The Soekris-shipped power supply, SMP 12V 1.5A, part no SBD212, is known to spon
 
 
 Retrieved from "[http://wiki.soekris.info/I%27m\_seeing\_some\_strange\_hardware\_malfunction.\_What\_should\_I\_try](https://web.archive.org/web/20180610231534/http://wiki.soekris.info/I%27m_seeing_some_strange_hardware_malfunction._What_should_I_try)"
-[Category](https://web.archive.org/web/20180610231534/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231534/http://wiki.soekris.info/Category:Hardware "Category:Hardware")
+[Category](https://web.archive.org/web/20180610231534/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231534/http://wiki.soekris.info/Category_Hardware "Category_Hardware")
 
  
 

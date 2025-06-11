@@ -155,7 +155,7 @@ If you're running Windows XP, you can use HyperTerminal, but it was removed from
 
 
 Retrieved from "[http://wiki.soekris.info/Connecting\_to\_the\_serial\_console](Connecting_to_the_serial_console.html)"
-[Categories](https://web.archive.org/web/20190218080801/http://wiki.soekris.info/Special:Categories "Special:Categories"): [HowTo](https://web.archive.org/web/20190218080801/http://wiki.soekris.info/Category:HowTo "Category:HowTo") | [Serial Console](https://web.archive.org/web/20190218080801/http://wiki.soekris.info/index.php?title=Category:Serial_Console&action=edit "Category:Serial Console")
+[Categories](https://web.archive.org/web/20190218080801/http://wiki.soekris.info/Special:Categories "Special:Categories"): [HowTo](https://web.archive.org/web/20190218080801/http://wiki.soekris.info/Category_HowTo "Category_HowTo") | [Serial Console](https://web.archive.org/web/20190218080801/http://wiki.soekris.info/index.php?title=Category_Serial_Console&action=edit "Category_Serial Console")
 
  
 

@@ -25,7 +25,7 @@ There are two common types of cable available to convert a 2x5 header to the sta
 
 
 Retrieved from "[http://wiki.soekris.info/Serial\_port](Serial_port.html)"
-[Categories](https://web.archive.org/web/20180610231640/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231640/http://wiki.soekris.info/Category:Hardware "Category:Hardware") | [Serial Console](https://web.archive.org/web/20180610231640/http://wiki.soekris.info/index.php?title=Category:Serial_Console&action=edit "Category:Serial Console")
+[Categories](https://web.archive.org/web/20180610231640/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231640/http://wiki.soekris.info/Category_Hardware "Category_Hardware") | [Serial Console](https://web.archive.org/web/20180610231640/http://wiki.soekris.info/index.php?title=Category_Serial_Console&action=edit "Category_Serial Console")
 
  
 

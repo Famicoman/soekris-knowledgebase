@@ -136,7 +136,7 @@ You can make these changes permanent to a kernel on disk with config(8).
 
 
 Retrieved from "[http://wiki.soekris.info/Installing\_OpenBSD](Installing_OpenBSD.html)"
-[Categories](https://web.archive.org/web/20190204160448/http://wiki.soekris.info/Special:Categories "Special:Categories"): [HowTo](https://web.archive.org/web/20190204160448/http://wiki.soekris.info/Category:HowTo "Category:HowTo") | [Operating Systems](https://web.archive.org/web/20190204160448/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems")
+[Categories](https://web.archive.org/web/20190204160448/http://wiki.soekris.info/Special:Categories "Special:Categories"): [HowTo](https://web.archive.org/web/20190204160448/http://wiki.soekris.info/Category_HowTo "Category_HowTo") | [Operating Systems](https://web.archive.org/web/20190204160448/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems")
 
  
 

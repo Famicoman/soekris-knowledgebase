@@ -14,7 +14,7 @@ A Soekris box is basically an x86 compatible single-board computer in an STB for
 
 
 Retrieved from "[http://wiki.soekris.info/What\_is\_a\_Soekris\_box](What_is_a_Soekris_box.html)"
-[Categories](https://web.archive.org/web/20180610231801/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231801/http://wiki.soekris.info/Category:General "Category:General") | [FAQ](https://web.archive.org/web/20180610231801/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231801/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231801/http://wiki.soekris.info/Category_General "Category_General") | [FAQ](https://web.archive.org/web/20180610231801/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

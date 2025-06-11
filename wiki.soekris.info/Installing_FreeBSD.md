@@ -126,7 +126,7 @@ FreeBSD 8.1 users might be able to use the code from FreeBSD 8.2 by taking [Alex
 
 
 Retrieved from "[http://wiki.soekris.info/Installing\_FreeBSD](Installing_FreeBSD.html)"
-[Categories](https://web.archive.org/web/20180610231544/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231544/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems") | [HowTo](https://web.archive.org/web/20180610231544/http://wiki.soekris.info/Category:HowTo "Category:HowTo")
+[Categories](https://web.archive.org/web/20180610231544/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231544/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems") | [HowTo](https://web.archive.org/web/20180610231544/http://wiki.soekris.info/Category_HowTo "Category_HowTo")
 
  
 

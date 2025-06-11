@@ -339,7 +339,7 @@ JP15 Details (shown with MTA100 connector)
 
 
 Retrieved from "[http://wiki.soekris.info/Net5501\_Interfaces](https://web.archive.org/web/20180811114021/http://wiki.soekris.info/Net5501_Interfaces)"
-[Categories](https://web.archive.org/web/20180811114021/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180811114021/http://wiki.soekris.info/Category:Hardware "Category:Hardware") | [Net5501](https://web.archive.org/web/20180811114021/http://wiki.soekris.info/Category:Net5501 "Category:Net5501")
+[Categories](https://web.archive.org/web/20180811114021/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180811114021/http://wiki.soekris.info/Category_Hardware "Category_Hardware") | [Net5501](https://web.archive.org/web/20180811114021/http://wiki.soekris.info/Category_Net5501 "Category_Net5501")
 
  
 

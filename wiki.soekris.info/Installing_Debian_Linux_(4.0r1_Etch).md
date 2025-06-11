@@ -210,7 +210,7 @@ when GRUB screen appears, don't install it, install lilo (if you are running COM
 
 
 Retrieved from "[http://wiki.soekris.info/Installing\_Debian\_Linux\_%284.0r1\_Etch%29](https://web.archive.org/web/20180818113712/http://wiki.soekris.info/Installing_Debian_Linux_%284.0r1_Etch%29)"
-[Categories](https://web.archive.org/web/20180818113712/http://wiki.soekris.info/Special:Categories "Special:Categories"): [HowTo](https://web.archive.org/web/20180818113712/http://wiki.soekris.info/Category:HowTo "Category:HowTo") | [Operating Systems](https://web.archive.org/web/20180818113712/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems")
+[Categories](https://web.archive.org/web/20180818113712/http://wiki.soekris.info/Special:Categories "Special:Categories"): [HowTo](https://web.archive.org/web/20180818113712/http://wiki.soekris.info/Category_HowTo "Category_HowTo") | [Operating Systems](https://web.archive.org/web/20180818113712/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems")
 
  
 

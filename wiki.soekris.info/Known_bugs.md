@@ -53,7 +53,7 @@ This is fixed in comBIOS 1.32i
 
 
 Retrieved from "[http://wiki.soekris.info/Net5501\_Known\_bugs](https://web.archive.org/web/20180610231604/http://wiki.soekris.info/Net5501_Known_bugs)"
-[Categories](https://web.archive.org/web/20180610231604/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Net5501](https://web.archive.org/web/20180610231604/http://wiki.soekris.info/Category:Net5501 "Category:Net5501") | [BIOS](https://web.archive.org/web/20180610231604/http://wiki.soekris.info/index.php?title=Category:BIOS&action=edit "Category:BIOS")
+[Categories](https://web.archive.org/web/20180610231604/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Net5501](https://web.archive.org/web/20180610231604/http://wiki.soekris.info/Category_Net5501 "Category_Net5501") | [BIOS](https://web.archive.org/web/20180610231604/http://wiki.soekris.info/index.php?title=Category_BIOS&action=edit "Category_BIOS")
 
  
 

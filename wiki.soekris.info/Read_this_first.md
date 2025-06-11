@@ -20,7 +20,7 @@ If you want to contribute just create an account, they need to be approved but w
 
 
 Retrieved from "[http://wiki.soekris.info/Read\_this\_first](Read_this_first.html)"
-[Category](https://web.archive.org/web/20180610231634/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231634/http://wiki.soekris.info/Category:General "Category:General")
+[Category](https://web.archive.org/web/20180610231634/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231634/http://wiki.soekris.info/Category_General "Category_General")
 
  
 

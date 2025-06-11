@@ -31,7 +31,7 @@ See also: [Known-working UNIX operating systems](https://web.archive.org/web/201
 
 
 Retrieved from "[http://wiki.soekris.info/Which\_OS\_should\_I\_run\_on\_a\_Soekris\_box](Which_OS_should_I_run_on_a_Soekris_box.html)"
-[Category](https://web.archive.org/web/20180610231820/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231820/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems")
+[Category](https://web.archive.org/web/20180610231820/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231820/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems")
 
  
 

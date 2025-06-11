@@ -27,7 +27,7 @@ This page contain a lot of GNU/Linux .config file, useful for all people!
 
 
 Retrieved from "[http://wiki.soekris.info/Linux\_kernel\_.config\_collection](Linux_kernel_.config_collection.html)"
-[Categories](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems") | [Linux](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/index.php?title=Category:Linux&action=edit "Category:Linux") | [Net4801](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/Category:Net4801 "Category:Net4801") | [Net5501](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/Category:Net5501 "Category:Net5501")
+[Categories](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems") | [Linux](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/index.php?title=Category_Linux&action=edit "Category_Linux") | [Net4801](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/Category_Net4801 "Category_Net4801") | [Net5501](https://web.archive.org/web/20180818113354/http://wiki.soekris.info/Category_Net5501 "Category_Net5501")
 
  
 

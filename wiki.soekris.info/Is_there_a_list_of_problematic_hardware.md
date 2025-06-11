@@ -17,7 +17,7 @@ probably always be a good advice here).
 
 
 Retrieved from "[http://wiki.soekris.info/Is\_there\_a\_list\_of\_problematic\_hardware](Is_there_a_list_of_problematic_hardware.html)"
-[Category](https://web.archive.org/web/20180610231559/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231559/http://wiki.soekris.info/Category:Hardware "Category:Hardware")
+[Category](https://web.archive.org/web/20180610231559/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231559/http://wiki.soekris.info/Category_Hardware "Category_Hardware")
 
  
 

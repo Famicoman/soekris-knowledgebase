@@ -3,7 +3,7 @@
 
 
 
-Jump to: [navigation](./Category:Net6501.html#column-one), [search](./Category:Net6501.html#searchInput) 
+Jump to: [navigation](./Category_Net6501.html#column-one), [search](./Category_Net6501.html#searchInput) 
 faster mid-range communications mainboard, with a 600MHz to 1.6GHz Atom
 
 
@@ -94,8 +94,8 @@ There are 4 articles in this category.
 
 
 
-Retrieved from "[http://wiki.soekris.info/Category:Net6501](./Category:Net6501.html)"
-[Categories](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Category:Products "Category:Products") | [Net65xx](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/index.php?title=Category:Net65xx&action=edit "Category:Net65xx")
+Retrieved from "[http://wiki.soekris.info/Category_Net6501](./Category_Net6501.html)"
+[Categories](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Category_Products "Category_Products") | [Net65xx](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/index.php?title=Category_Net65xx&action=edit "Category_Net65xx")
 
  
 

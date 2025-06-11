@@ -174,7 +174,7 @@ See [Connecting to the serial console](https://web.archive.org/web/2018081204263
 
 
 Retrieved from "[http://wiki.soekris.info/Installing\_From\_an\_Existing\_Image](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/Installing_From_an_Existing_Image)"
-[Categories](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Installation](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/index.php?title=Category:Installation&action=edit "Category:Installation") | [Debian](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/index.php?title=Category:Debian&action=edit "Category:Debian") | [HowTo](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/Category:HowTo "Category:HowTo")
+[Categories](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Installation](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/index.php?title=Category_Installation&action=edit "Category_Installation") | [Debian](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/index.php?title=Category_Debian&action=edit "Category_Debian") | [HowTo](https://web.archive.org/web/20180812042638/http://wiki.soekris.info/Category_HowTo "Category_HowTo")
 
  
 

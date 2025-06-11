@@ -3,7 +3,7 @@
 
 
 
-Jump to: [navigation](./Category:Net4826.html#column-one), [search](./Category:Net4826.html#searchInput) 
+Jump to: [navigation](./Category_Net4826.html#column-one), [search](./Category_Net4826.html#searchInput) 
 Dual Mini-PCI 266 Mhz Geode SC1100 based mainboard for wireless applications
 
 
@@ -100,8 +100,8 @@ Replacement Internal Battery:
 
 
 
-Retrieved from "[http://wiki.soekris.info/Category:Net4826](./Category:Net4826.html)"
-[Categories](https://web.archive.org/web/20180610231443/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231443/http://wiki.soekris.info/Category:Products "Category:Products") | [Discontinued Products](https://web.archive.org/web/20180610231443/http://wiki.soekris.info/Category:Discontinued_Products "Category:Discontinued Products") | [Net48xx](https://web.archive.org/web/20180610231443/http://wiki.soekris.info/index.php?title=Category:Net48xx&action=edit "Category:Net48xx")
+Retrieved from "[http://wiki.soekris.info/Category_Net4826](./Category_Net4826.html)"
+[Categories](https://web.archive.org/web/20180610231443/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231443/http://wiki.soekris.info/Category_Products "Category_Products") | [Discontinued Products](https://web.archive.org/web/20180610231443/http://wiki.soekris.info/Category_Discontinued_Products "Category_Discontinued Products") | [Net48xx](https://web.archive.org/web/20180610231443/http://wiki.soekris.info/index.php?title=Category_Net48xx&action=edit "Category_Net48xx")
 
  
 

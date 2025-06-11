@@ -23,7 +23,7 @@ On the [net5501](https://web.archive.org/web/20180610231715/http://wiki.soekris.
 
 
 Retrieved from "[http://wiki.soekris.info/The\_PCI\_slot\_seems\_like\_it%27s\_backwards%2C\_what\_gives](https://web.archive.org/web/20180610231715/http://wiki.soekris.info/The_PCI_slot_seems_like_it%27s_backwards%2C_what_gives)"
-[Categories](https://web.archive.org/web/20180610231715/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231715/http://wiki.soekris.info/Category:Hardware "Category:Hardware") | [FAQ](https://web.archive.org/web/20180610231715/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231715/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231715/http://wiki.soekris.info/Category_Hardware "Category_Hardware") | [FAQ](https://web.archive.org/web/20180610231715/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

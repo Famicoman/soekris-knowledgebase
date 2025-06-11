@@ -3,7 +3,7 @@
 
 
 
-Jump to: [navigation](./Category:Net4511.html#column-one), [search](./Category:Net4511.html#searchInput) 
+Jump to: [navigation](./Category_Net4511.html#column-one), [search](./Category_Net4511.html#searchInput) 
 Single PC-Card/CardBus 100 Mhz 486 based mainboard for wireless applications
 
 
@@ -96,8 +96,8 @@ There is one article in this category.
 
 
 
-Retrieved from "[http://wiki.soekris.info/Category:Net4511](./Category:Net4511.html)"
-[Categories](https://web.archive.org/web/20180610231423/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231423/http://wiki.soekris.info/Category:Products "Category:Products") | [Net45xx](https://web.archive.org/web/20180610231423/http://wiki.soekris.info/index.php?title=Category:Net45xx&action=edit "Category:Net45xx")
+Retrieved from "[http://wiki.soekris.info/Category_Net4511](./Category_Net4511.html)"
+[Categories](https://web.archive.org/web/20180610231423/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231423/http://wiki.soekris.info/Category_Products "Category_Products") | [Net45xx](https://web.archive.org/web/20180610231423/http://wiki.soekris.info/index.php?title=Category_Net45xx&action=edit "Category_Net45xx")
 
  
 

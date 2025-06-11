@@ -25,7 +25,7 @@ support.) Heck, get a good hub and connect *lots* of 3.5" drives! Be sure to use
 
 
 Retrieved from "[http://wiki.soekris.info/Can\_I\_connect\_my\_100GB\_3.5\_IDE\_drive\_to\_a\_Soekris\_box](Can_I_connect_my_100GB_3.5_IDE_drive_to_a_Soekris_box.html)"
-[Categories](https://web.archive.org/web/20180610231413/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231413/http://wiki.soekris.info/Category:Hardware "Category:Hardware") | [FAQ](https://web.archive.org/web/20180610231413/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231413/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231413/http://wiki.soekris.info/Category_Hardware "Category_Hardware") | [FAQ](https://web.archive.org/web/20180610231413/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

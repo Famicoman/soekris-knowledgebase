@@ -18,7 +18,7 @@ has been installed.
 
 
 Retrieved from "[http://wiki.soekris.info/How\_is\_a\_Soekris\_box\_managed](How_is_a_Soekris_box_managed.html)"
-[Categories](https://web.archive.org/web/20180610231529/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231529/http://wiki.soekris.info/Category:General "Category:General") | [FAQ](https://web.archive.org/web/20180610231529/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231529/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231529/http://wiki.soekris.info/Category_General "Category_General") | [FAQ](https://web.archive.org/web/20180610231529/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

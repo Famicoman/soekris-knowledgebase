@@ -20,7 +20,7 @@ The net4501 is an excellent low-power / high-reliability device to use as a Stra
 
 
 Retrieved from "[http://wiki.soekris.info/Net4501\_NTP\_Server](Net4501_NTP_Server.html)"
-[Categories](https://web.archive.org/web/20180610231620/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Net4501](https://web.archive.org/web/20180610231620/http://wiki.soekris.info/Category:Net4501 "Category:Net4501") | [Net45xx](https://web.archive.org/web/20180610231620/http://wiki.soekris.info/index.php?title=Category:Net45xx&action=edit "Category:Net45xx") | [NTP](https://web.archive.org/web/20180610231620/http://wiki.soekris.info/index.php?title=Category:NTP&action=edit "Category:NTP")
+[Categories](https://web.archive.org/web/20180610231620/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Net4501](https://web.archive.org/web/20180610231620/http://wiki.soekris.info/Category_Net4501 "Category_Net4501") | [Net45xx](https://web.archive.org/web/20180610231620/http://wiki.soekris.info/index.php?title=Category_Net45xx&action=edit "Category_Net45xx") | [NTP](https://web.archive.org/web/20180610231620/http://wiki.soekris.info/index.php?title=Category_NTP&action=edit "Category_NTP")
 
  
 

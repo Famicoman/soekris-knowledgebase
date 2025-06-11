@@ -2044,7 +2044,7 @@ CONFIG\_KTIME\_SCALAR=y
 
 
 Retrieved from "[http://wiki.soekris.info/Configuration\_for\_Gentoo](Configuration_for_Gentoo.html)"
-[Categories](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems") | [HowTo](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Category:HowTo "Category:HowTo")
+[Categories](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems") | [HowTo](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Category_HowTo "Category_HowTo")
 
  
 

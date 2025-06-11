@@ -66,7 +66,7 @@ fdisk -C ccc -H hhh -S ss /dev/sdX
 
 
 Retrieved from "[http://wiki.soekris.info/What\_is\_this\_disk\_geometry\_thing](What_is_this_disk_geometry_thing.html)"
-[Category](https://web.archive.org/web/20180818105458/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180818105458/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems")
+[Category](https://web.archive.org/web/20180818105458/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180818105458/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems")
 
  
 

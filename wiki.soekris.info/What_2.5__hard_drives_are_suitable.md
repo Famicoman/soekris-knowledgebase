@@ -121,7 +121,7 @@ Three Fujitsu drives to consider are:
 
 
 Retrieved from "[http://wiki.soekris.info/What\_2.5%22\_hard\_drives\_are\_suitable](What_2.5"_hard_drives_are_suitable.html)"
-[Category](https://web.archive.org/web/20180610231725/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231725/http://wiki.soekris.info/Category:Hardware "Category:Hardware")
+[Category](https://web.archive.org/web/20180610231725/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231725/http://wiki.soekris.info/Category_Hardware "Category_Hardware")
 
  
 

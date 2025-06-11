@@ -20,7 +20,7 @@ If you have any issues with the registration process, just write on Soekris mail
 
 
 Retrieved from "[http://wiki.soekris.info/How\_can\_I\_contribute](How_can_I_contribute.html)"
-[Category](https://web.archive.org/web/20180610231524/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231524/http://wiki.soekris.info/Category:General "Category:General")
+[Category](https://web.archive.org/web/20180610231524/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231524/http://wiki.soekris.info/Category_General "Category_General")
 
  
 

@@ -38,7 +38,7 @@ Of course, Your Mileage May Vary.
 
 
 Retrieved from "[http://wiki.soekris.info/What\_performance\_can\_I\_expect\_of\_the\_USB\_port\_on\_a\_Soekris\_box](What_performance_can_I_expect_of_the_USB_port_on_a_Soekris_box.html)"
-[Categories](https://web.archive.org/web/20180610231811/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231811/http://wiki.soekris.info/Category:General "Category:General") | [FAQ](https://web.archive.org/web/20180610231811/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231811/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231811/http://wiki.soekris.info/Category_General "Category_General") | [FAQ](https://web.archive.org/web/20180610231811/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

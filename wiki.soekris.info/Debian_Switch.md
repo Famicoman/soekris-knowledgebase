@@ -66,7 +66,7 @@ iptables -t nat -A POSTROUTING -o eth4 -j MASQUERADE
 
 
 Retrieved from "[http://wiki.soekris.info/Debian\_Switch](Debian_Switch.html)"
-[Category](https://web.archive.org/web/20180610231504/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Debian](https://web.archive.org/web/20180610231504/http://wiki.soekris.info/index.php?title=Category:Debian&action=edit "Category:Debian")
+[Category](https://web.archive.org/web/20180610231504/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Debian](https://web.archive.org/web/20180610231504/http://wiki.soekris.info/index.php?title=Category_Debian&action=edit "Category_Debian")
 
  
 

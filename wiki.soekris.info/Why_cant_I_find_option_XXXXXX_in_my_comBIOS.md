@@ -16,7 +16,7 @@ probably using an older comBIOS version.
 
 
 Retrieved from "[http://wiki.soekris.info/Why\_cant\_I\_find\_option\_XXXXXX\_in\_my\_comBIOS](Why_cant_I_find_option_XXXXXX_in_my_comBIOS.html)"
-[Categories](https://web.archive.org/web/20180610231831/http://wiki.soekris.info/Special:Categories "Special:Categories"): [BIOS](https://web.archive.org/web/20180610231831/http://wiki.soekris.info/index.php?title=Category:BIOS&action=edit "Category:BIOS") | [FAQ](https://web.archive.org/web/20180610231831/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231831/http://wiki.soekris.info/Special:Categories "Special:Categories"): [BIOS](https://web.archive.org/web/20180610231831/http://wiki.soekris.info/index.php?title=Category_BIOS&action=edit "Category_BIOS") | [FAQ](https://web.archive.org/web/20180610231831/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

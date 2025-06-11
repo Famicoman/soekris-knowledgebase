@@ -403,7 +403,7 @@ Oh, and all relies on that your tera term is setup correctly with console speed 
 
 
 Retrieved from "[http://wiki.soekris.info/Updating\_Bios](Updating_Bios.html)"
-[Categories](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/Special:Categories "Special:Categories"): [BIOS](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/index.php?title=Category:BIOS&action=edit "Category:BIOS") | [HowTo](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/Category:HowTo "Category:HowTo") | [Serial Console](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/index.php?title=Category:Serial_Console&action=edit "Category:Serial Console")
+[Categories](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/Special:Categories "Special:Categories"): [BIOS](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/index.php?title=Category_BIOS&action=edit "Category_BIOS") | [HowTo](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/Category_HowTo "Category_HowTo") | [Serial Console](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/index.php?title=Category_Serial_Console&action=edit "Category_Serial Console")
 
  
 

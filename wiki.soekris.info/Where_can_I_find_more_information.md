@@ -17,7 +17,7 @@ see the [Soekris Support](https://web.archive.org/web/20180610231816/http://www.
 
 
 Retrieved from "[http://wiki.soekris.info/Where\_can\_I\_find\_more\_information](Where_can_I_find_more_information.html)"
-[Categories](https://web.archive.org/web/20180610231816/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231816/http://wiki.soekris.info/Category:General "Category:General") | [FAQ](https://web.archive.org/web/20180610231816/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231816/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231816/http://wiki.soekris.info/Category_General "Category_General") | [FAQ](https://web.archive.org/web/20180610231816/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

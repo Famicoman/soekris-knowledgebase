@@ -29,7 +29,7 @@ the next entry.
 
 
 Retrieved from "[http://wiki.soekris.info/What\_should\_I\_pay\_attention\_to\_when\_installing\_an\_OS](What_should_I_pay_attention_to_when_installing_an_OS.html)"
-[Category](https://web.archive.org/web/20180818105349/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180818105349/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems")
+[Category](https://web.archive.org/web/20180818105349/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180818105349/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems")
 
  
 

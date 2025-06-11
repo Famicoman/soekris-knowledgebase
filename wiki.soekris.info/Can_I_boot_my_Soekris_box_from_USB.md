@@ -17,7 +17,7 @@ USB boot for the [net4801 and net5501 is planned](https://web.archive.org/web/20
 
 
 Retrieved from "[http://wiki.soekris.info/Can\_I\_boot\_my\_Soekris\_box\_from\_USB](Can_I_boot_my_Soekris_box_from_USB.html)"
-[Category](https://web.archive.org/web/20180812043838/http://wiki.soekris.info/Special:Categories "Special:Categories"): [BIOS](https://web.archive.org/web/20180812043838/http://wiki.soekris.info/index.php?title=Category:BIOS&action=edit "Category:BIOS")
+[Category](https://web.archive.org/web/20180812043838/http://wiki.soekris.info/Special:Categories "Special:Categories"): [BIOS](https://web.archive.org/web/20180812043838/http://wiki.soekris.info/index.php?title=Category_BIOS&action=edit "Category_BIOS")
 
  
 

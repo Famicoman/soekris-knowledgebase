@@ -48,7 +48,7 @@ Everything is set just connect your net55xx to your ethernet on your enjoy the c
 
 
 Retrieved from "[http://wiki.soekris.info/Installing\_CentOS\_4.4](Installing_CentOS_4.4.html)"
-[Categories](https://web.archive.org/web/20180610231539/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231539/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems") | [HowTo](https://web.archive.org/web/20180610231539/http://wiki.soekris.info/Category:HowTo "Category:HowTo")
+[Categories](https://web.archive.org/web/20180610231539/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231539/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems") | [HowTo](https://web.archive.org/web/20180610231539/http://wiki.soekris.info/Category_HowTo "Category_HowTo")
 
  
 

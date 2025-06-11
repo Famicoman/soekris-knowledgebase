@@ -3,7 +3,7 @@
 
 
 
-Jump to: [navigation](./Category:Net4526.html#column-one), [search](./Category:Net4526.html#searchInput) 
+Jump to: [navigation](./Category_Net4526.html#column-one), [search](./Category_Net4526.html#searchInput) 
 Dual Mini-PCI 133 Mhz 486 based mainboard for wireless applications
 
 
@@ -85,8 +85,8 @@ Replacement Internal Battery:
 
 
 
-Retrieved from "[http://wiki.soekris.info/Category:Net4526](./Category:Net4526.html)"
-[Categories](https://web.archive.org/web/20180811113240/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180811113240/http://wiki.soekris.info/Category:Products "Category:Products") | [Net45xx](https://web.archive.org/web/20180811113240/http://wiki.soekris.info/index.php?title=Category:Net45xx&action=edit "Category:Net45xx")
+Retrieved from "[http://wiki.soekris.info/Category_Net4526](./Category_Net4526.html)"
+[Categories](https://web.archive.org/web/20180811113240/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180811113240/http://wiki.soekris.info/Category_Products "Category_Products") | [Net45xx](https://web.archive.org/web/20180811113240/http://wiki.soekris.info/index.php?title=Category_Net45xx&action=edit "Category_Net45xx")
 
  
 

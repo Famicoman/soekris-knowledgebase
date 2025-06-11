@@ -213,7 +213,7 @@ root@soekris:/"
 
 
 Retrieved from "[http://wiki.soekris.info/Gentoo\_2.6.28.2](Gentoo_2.6.28.2.html)"
-[Categories](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Linux](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category:Linux&action=edit "Category:Linux") | [Installation](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category:Installation&action=edit "Category:Installation") | [Gentoo](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category:Gentoo&action=edit "Category:Gentoo")
+[Categories](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Linux](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category_Linux&action=edit "Category_Linux") | [Installation](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category_Installation&action=edit "Category_Installation") | [Gentoo](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category_Gentoo&action=edit "Category_Gentoo")
 
  
 

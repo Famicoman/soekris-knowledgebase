@@ -87,7 +87,7 @@ Many more details about the connectors and interfaces have been collected in the
 
 
 Retrieved from "[http://wiki.soekris.info/Unofficial\_Hardware\_Manual](Unofficial_Hardware_Manual.html)"
-[Category](https://web.archive.org/web/20180610231720/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231720/http://wiki.soekris.info/Category:Hardware "Category:Hardware")
+[Category](https://web.archive.org/web/20180610231720/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231720/http://wiki.soekris.info/Category_Hardware "Category_Hardware")
 
  
 

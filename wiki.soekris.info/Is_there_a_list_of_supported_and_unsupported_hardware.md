@@ -17,7 +17,7 @@ feel free to consult the soekris-tech list.
 
 
 Retrieved from "[http://wiki.soekris.info/Is\_there\_a\_list\_of\_supported\_and\_unsupported\_hardware](Is_there_a_list_of_supported_and_unsupported_hardware.html)"
-[Category](https://web.archive.org/web/20180818113806/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180818113806/http://wiki.soekris.info/Category:Hardware "Category:Hardware")
+[Category](https://web.archive.org/web/20180818113806/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180818113806/http://wiki.soekris.info/Category_Hardware "Category_Hardware")
 
  
 

@@ -10,7 +10,7 @@ Jump to: [navigation](Which_Operating_Systems_are_supported.html#column-one), [s
 The question here might as well be: "Which Operating Systems support a Soekris box?".
 Each OS that is able run on an x86 and operate in text mode should run on a Soekris.
 So as you should be able to get any Linux, for example, up and running on a Soekris
-box, Windows Vista probably won't. For more information go to [Category:Operating Systems](https://web.archive.org/web/20180610231826/http://wiki.soekris.info/Category:Operating_Systems "Category:Operating Systems")
+box, Windows Vista probably won't. For more information go to [Category_Operating Systems](https://web.archive.org/web/20180610231826/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems")
 section.
 
 
@@ -39,7 +39,7 @@ clear about what is supported and what isn't:
 
 
 Retrieved from "[http://wiki.soekris.info/Which\_Operating\_Systems\_are\_supported](Which_Operating_Systems_are_supported.html)"
-[Categories](https://web.archive.org/web/20180610231826/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231826/http://wiki.soekris.info/Category:General "Category:General") | [FAQ](https://web.archive.org/web/20180610231826/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231826/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231826/http://wiki.soekris.info/Category_General "Category_General") | [FAQ](https://web.archive.org/web/20180610231826/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

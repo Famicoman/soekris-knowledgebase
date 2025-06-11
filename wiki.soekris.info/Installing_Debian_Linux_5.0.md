@@ -372,7 +372,7 @@ then:
 
 
 Retrieved from "[http://wiki.soekris.info/Installing\_Debian\_Linux\_5.0](Installing_Debian_Linux_5.0.html)"
-[Categories](https://web.archive.org/web/20190311150329/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Debian](https://web.archive.org/web/20190311150329/http://wiki.soekris.info/index.php?title=Category:Debian&action=edit "Category:Debian") | [Linux](https://web.archive.org/web/20190311150329/http://wiki.soekris.info/index.php?title=Category:Linux&action=edit "Category:Linux") | [Installation](https://web.archive.org/web/20190311150329/http://wiki.soekris.info/index.php?title=Category:Installation&action=edit "Category:Installation")
+[Categories](https://web.archive.org/web/20190311150329/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Debian](https://web.archive.org/web/20190311150329/http://wiki.soekris.info/index.php?title=Category_Debian&action=edit "Category_Debian") | [Linux](https://web.archive.org/web/20190311150329/http://wiki.soekris.info/index.php?title=Category_Linux&action=edit "Category_Linux") | [Installation](https://web.archive.org/web/20190311150329/http://wiki.soekris.info/index.php?title=Category_Installation&action=edit "Category_Installation")
 
  
 

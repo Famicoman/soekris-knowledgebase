@@ -17,7 +17,7 @@ But seriously, manuals for net4501 and net4801 are available on the [Soekris web
 
 
 Retrieved from "[http://wiki.soekris.info/What\_documents\_should\_I\_have\_received\_with\_my\_Soekris\_box](What_documents_should_I_have_received_with_my_Soekris_box.html)"
-[Categories](https://web.archive.org/web/20180610231755/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231755/http://wiki.soekris.info/Category:General "Category:General") | [FAQ](https://web.archive.org/web/20180610231755/http://wiki.soekris.info/Category:FAQ "Category:FAQ")
+[Categories](https://web.archive.org/web/20180610231755/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231755/http://wiki.soekris.info/Category_General "Category_General") | [FAQ](https://web.archive.org/web/20180610231755/http://wiki.soekris.info/Category_FAQ "Category_FAQ")
 
  
 

@@ -17,7 +17,7 @@ Just don't expect huge amounts of processing power from a Soekris box. These are
 
 
 Retrieved from "[http://wiki.soekris.info/What\_can\_I\_do\_with\_a\_Soekris\_box](What_can_I_do_with_a_Soekris_box.html)"
-[Category](https://web.archive.org/web/20180610231740/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231740/http://wiki.soekris.info/Category:General "Category:General")
+[Category](https://web.archive.org/web/20180610231740/http://wiki.soekris.info/Special:Categories "Special:Categories"): [General](https://web.archive.org/web/20180610231740/http://wiki.soekris.info/Category_General "Category_General")
 
  
 

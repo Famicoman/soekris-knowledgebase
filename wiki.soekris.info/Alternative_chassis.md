@@ -17,7 +17,7 @@ Metrix.net have outdoor wireless kits including a Soekris net4x26 board and wate
 
 
 Retrieved from "[http://wiki.soekris.info/Alternative\_chassis](Alternative_chassis.html)"
-[Category](https://web.archive.org/web/20180610231408/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231408/http://wiki.soekris.info/Category:Hardware "Category:Hardware")
+[Category](https://web.archive.org/web/20180610231408/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Hardware](https://web.archive.org/web/20180610231408/http://wiki.soekris.info/Category_Hardware "Category_Hardware")
 
  
 

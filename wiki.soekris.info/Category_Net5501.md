@@ -3,7 +3,7 @@
 
 
 
-Jump to: [navigation](./Category:Net5501.html#column-one), [search](./Category:Net5501.html#searchInput) 
+Jump to: [navigation](./Category_Net5501.html#column-one), [search](./Category_Net5501.html#searchInput) 
 faster mid-range communications mainboard, with a 433 to 500 Mhz Geode LX
 
 
@@ -124,8 +124,8 @@ W* [What do all those BIOS settings do?](https://web.archive.org/web/20180811114
 
 
 
-Retrieved from "[http://wiki.soekris.info/Category:Net5501](./Category:Net5501.html)"
-[Categories](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Category:Products "Category:Products") | [Net55xx](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/index.php?title=Category:Net55xx&action=edit "Category:Net55xx")
+Retrieved from "[http://wiki.soekris.info/Category_Net5501](./Category_Net5501.html)"
+[Categories](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Category_Products "Category_Products") | [Net55xx](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/index.php?title=Category_Net55xx&action=edit "Category_Net55xx")
 
  
 
