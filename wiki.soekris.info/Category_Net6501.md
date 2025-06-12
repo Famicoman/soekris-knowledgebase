@@ -1,33 +1,18 @@
+# Category: Net6501
 
-### From Soekris Info Wiki
-
-
-
-Jump to: [navigation](./Category_Net6501.html#column-one), [search](./Category_Net6501.html#searchInput) 
 faster mid-range communications mainboard, with a 600MHz to 1.6GHz Atom
 
-
-
-#  Soekris Engineering net6501
-
+## Soekris Engineering net6501
 
 This compact, low-power, low-cost, advanced communication computer is based on an up to 1.6 Ghz Intel Atom E6xx series processor. It has four 10/100/1000 Mbit ethernet ports, up to 2 Gbyte DDR2-SDRAM main memory and uses a uSD or mSATA module for program and data storage. It can be expanded using MiniPCI-Express boards, hard drives and low-power standard PCI-Express boards.
 
-
 It has been optimized for use as a Firewall, VPN Router, Internet Gateway and Small Server Applications, but has the flexibility to take on a whole range of different functions as a communication appliance. The board is designed for long life and low power.
-
 
 It is available in any volume in the standard version, and as board only or with a small metal box and various power supplies. The board can be customized according to requirements when ordering higher volume.
 
-
-
-#  Hardware and Software
-
+## Hardware and Software
 
 Specifications
-
-
-
 
 ```
 * 600 Mhz to 1.6 Ghz Intel Atom E6xx single chip processor with EG20T companion chip
@@ -54,9 +39,6 @@ Specifications
 
 Cases Available
 
-
-
-
 ```
 * Standard case with 1 PCI-Express slot, 5.9" x 11.0" x 1.3"
 * 1U 19" rackmount with with 2 PCI-Express slots and 40W Internal Power Supply
@@ -64,9 +46,6 @@ Cases Available
 ```
 
 Software
-
-
-
 
 ```
 * comBIOS for full headless operation over serial port
@@ -76,26 +55,14 @@ Software
 
 ```
 
-
-
 ## Articles in category "Net6501"
 
-
 There are 4 articles in this category.
-
 
 ### N
 
 
-* [Net6501 FPGA](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Net6501_FPGA "Net6501 FPGA")
-* [Net6501 Interfaces](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Net6501_Interfaces "Net6501 Interfaces")
-* [Net6501 Sysinfo](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Net6501_Sysinfo "Net6501 Sysinfo")
-* [Net6501 freebsd](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Net6501_freebsd "Net6501 freebsd")
-
-
-
-Retrieved from "[http://wiki.soekris.info/Category_Net6501](./Category_Net6501.html)"
-[Categories](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/Category_Products "Category_Products") | [Net65xx](https://web.archive.org/web/20180610231453/http://wiki.soekris.info/index.php?title=Category_Net65xx&action=edit "Category_Net65xx")
-
- 
-
+* [Net6501 FPGA](Net6501_FPGA.md "Net6501 FPGA")
+* [Net6501 Interfaces](Net6501_Interfaces.md "Net6501 Interfaces")
+* [Net6501 Sysinfo](Net6501_Sysinfo.md "Net6501 Sysinfo")
+* [Net6501 freebsd](Net6501_freebsd.md "Net6501 freebsd")

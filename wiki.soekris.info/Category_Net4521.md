@@ -1,36 +1,20 @@
+# Category: Net4521
 
-### From Soekris Info Wiki
-
-
-
-Jump to: [navigation](./Category_Net4521.html#column-one), [search](./Category_Net4521.html#searchInput) 
 Dual PC-Card/CardBus 133 Mhz 486 based mainboard for wireless applications
 
-
-
-#  Soekris Engineering net4521
-
+## Soekris Engineering net4521
 
 This compact, low-power, low-cost, advanced communication computer is based on a 133 Mhz 486 class processor. It has two 10/100 Mbit ethernet ports, up to 64 Mbyte SDRAM main memory and uses a CompactFlash module for program and data storage. It can be expanded using a MiniPCI type III board and up to two PC-Card/Cardbus adapters. 
 
-
 It has been optimized for use as wireless router using PC-Card wireless adapters, but has the flexibility to take on a whole range of different functions as a communication appliance. The board is designed for long life and low power.
-
 
 It will be available in any volume in the standard version, and as board only or with a small metal box and various power supplies. The board can be customized according to requirements when ordering higher volume.
 
-
 Please note that the available standard case has cutouts for two RP-TNC Jacks for the external antennas, but does not include the connectors and cables. Also, the standard transformer available from soekris is a regular wall mount type, it is not a PoE type.
 
-
-
-#  Hardware and Software
-
+## Hardware and Software
 
 Specifications:
-
-
-
 
 ```
    * 100/133 Mhz AMD ElanSC520
@@ -54,9 +38,6 @@ Specifications:
 
 Software:
 
-
-
-
 ```
    * comBIOS for full headless operation over serial port
    * PXE boot rom for diskless booting
@@ -67,27 +48,8 @@ Software:
 
 Replacement Internal Battery:
 
+* [Panasonic ML621S/F9DE](https://web.archive.org/web/20180610231428/http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html) - available from DigiKey and others.
 
-
-
-```
-   * [Panasonic ML621S/F9DE](https://web.archive.org/web/20180610231428/http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html "http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html") - available from DigiKey and others.
-
-```
-
-##   External links
-
+## External links
 
 * [Soekris net4521 page](https://web.archive.org/web/20180610231428/http://www.soekris.com/net4521.htm "http://www.soekris.com/net4521.htm")
-
-
-
-*This category currently contains no articles or media.*
-
-
-
-Retrieved from "[http://wiki.soekris.info/Category_Net4521](./Category_Net4521.html)"
-[Categories](https://web.archive.org/web/20180610231428/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231428/http://wiki.soekris.info/Category_Products "Category_Products") | [Net45xx](https://web.archive.org/web/20180610231428/http://wiki.soekris.info/index.php?title=Category_Net45xx&action=edit "Category_Net45xx")
-
- 
-

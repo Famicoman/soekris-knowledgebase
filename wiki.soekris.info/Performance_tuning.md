@@ -1,10 +1,4 @@
-
-### From Soekris Info Wiki
-
-
-
-Jump to: [navigation](Performance_tuning.html#column-one), [search](Performance_tuning.html#searchInput) 
-
+# Performance tuning
 
 |  |  net4801
  |  net5501
@@ -13,15 +7,11 @@ Jump to: [navigation](Performance_tuning.html#column-one), [search](Performance_
 |  Linux
  |  |  |
 |  FreeBSD
- |  | [tune](https://web.archive.org/web/20190329210714/http://wiki.soekris.info/Tuning_net5501_freebsd "Tuning net5501 freebsd") |
+ |  | [tune](Tuning_net5501_freebsd.md "Tuning net5501 freebsd") |
 |  OpenBSD
- | [tune](https://web.archive.org/web/20190329210714/http://wiki.soekris.info/Tuning_net4801_openbsd "Tuning net4801 openbsd") | [tune](https://web.archive.org/web/20190329210714/http://wiki.soekris.info/Tuning_net5501_openbsd "Tuning net5501 openbsd") |
+ | [tune](Tuning_net4801_openbsd.md "Tuning net4801 openbsd") | [tune](Tuning_net5501_openbsd.md "Tuning net5501 openbsd") |
 
-
-
-
-Retrieved from "[http://wiki.soekris.info/Performance\_tuning](Performance_tuning.html)"
-[Categories](https://web.archive.org/web/20190329210714/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20190329210714/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems") | [Net4801](https://web.archive.org/web/20190329210714/http://wiki.soekris.info/Category_Net4801 "Category_Net4801") | [Net5501](https://web.archive.org/web/20190329210714/http://wiki.soekris.info/Category_Net5501 "Category_Net5501")
+[Net4801](Category_Net4801.md "Category_Net4801") | [Net5501](Category_Net5501.md "Category_Net5501")
 
  
 

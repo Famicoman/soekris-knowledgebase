@@ -1,16 +1,8 @@
+# Configuration_for_Gentoo
 
-### From Soekris Info Wiki
-
-
-
-Jump to: [navigation](Configuration_for_Gentoo.html#column-one), [search](Configuration_for_Gentoo.html#searchInput) 
 This applies to net4801
 
-
 make.conf for Gentoo :
-
-
-
 
 ```
 # These settings were set by the catalyst build script that automatically built this stage
@@ -22,20 +14,8 @@ MAKEOPTS="-j2"
 SYNC="rsync://rsync.europe.gentoo.org/gentoo-portage"
 USE="-X -gtk -gnome -kde apache2 ftp lm\_sensors mmx mysql ncurses nptl nptlonly pdf ruby verbose"
 PORTAGE\_RSYNC\_EXTRA\_OPTS="--exclude-from=/etc/portage/rsync\_excludes"
-
 ```
-
-  
-
 .config for kernel 2.6.20-gentoo-r8 :  
-
-
-
-  
-
-
-
-
 
 ```
 # Automatically generated make config: don't edit
@@ -2040,11 +2020,3 @@ CONFIG\_X86\_BIOS\_REBOOT=y
 CONFIG\_KTIME\_SCALAR=y
 
 ```
-
-
-
-Retrieved from "[http://wiki.soekris.info/Configuration\_for\_Gentoo](Configuration_for_Gentoo.html)"
-[Categories](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Operating Systems](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Category_Operating_Systems "Category_Operating Systems") | [HowTo](https://web.archive.org/web/20180610231459/http://wiki.soekris.info/Category_HowTo "Category_HowTo")
-
- 
-

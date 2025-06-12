@@ -1,23 +1,13 @@
+# Gentoo 2.6.28.2
 
-### From Soekris Info Wiki
-
-
-
-Jump to: [navigation](Gentoo_2.6.28.2.html#column-one), [search](Gentoo_2.6.28.2.html#searchInput) 
 My soekris 4801 is an wlan access point and router for pppoe, installed on hardisk.
-
 
 For updates i am using a chroot on a faster machine with rsync before and
 after updating. Another way for updates is using [[distcc](https://web.archive.org/web/20180610231509/http://www.gentoo.org/doc/en/cross-compiling-distcc.xml "http://www.gentoo.org/doc/en/cross-compiling-distcc.xml")].
 
-
 The Kernel configuration is [here](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/Kernel_2.6.28.2_vanilla_on_Gentoo "Kernel 2.6.28.2 vanilla on Gentoo")
 
-
 /boot/grub/menu.lst for serial console
-
-
-
 
 ```
 default 0
@@ -27,15 +17,9 @@ terminal serial
 title Gentoo Linux
 root (hd0,1)
 kernel /boot/vmlinuz root=/dev/hdb2 console=ttyS0,9600n8
-
 ```
 
-  
-
 /etc/make.conf
-
-
-
 
 ```
 CFLAGS="-O2 -mtune=i686 -pipe"
@@ -44,13 +28,9 @@ CHOST="i586-pc-linux-gnu"
 MAKEOPTS="-j2"
 SYNC="rsync://rsync5.de.gentoo.org/gentoo-portage"
 USE="-X -gtk -gnome -kde -alsa -qt3 -qt4 imagemagick ssl bzip2 readline python apache2 lm\_sensors mmx mysql ncurses verbose "
-
 ```
 
 /etc/inittab for serial console
-
-
-
 
 ```
 id:3:initdefault:
@@ -66,15 +46,9 @@ l6:6:wait:/sbin/rc reboot
 # SERIAL CONSOLES
 s0:12345:respawn:/sbin/agetty 9600 ttyS0 vt100
 x:a:once:/etc/X11/startDM.sh
-
 ```
 
-  
-
 /etc/conf.d/net
-
-
-
 
 ```
 dns\_domain\_lo="domain.local"
@@ -88,25 +62,17 @@ dns\_servers\_br0="208.67.222.222 156.154.70.1 208.67.220.220"
 dns\_search\_br0="domain.local"
 bridge\_br0="eth0 ath0"
 RC\_NEED\_br0="net.eth0 net.ath0"
-
 ```
 
 /etc/conf.d/hostapd
-
-
-
 
 ```
 INTERFACES="ath0 eth0 br0"
 CONFIGS="/etc/hostapd/hostapd.conf"
 OPTIONS=""
-
 ```
 
 /etc/hostapd/hostapd.conf
-
-
-
 
 ```
 interface=ath0
@@ -161,19 +127,13 @@ wpa\_key\_mgmt=WPA-PSK WPA-EAP
 wpa\_pairwise=TKIP CCMP
 wpa\_group\_rekey=600
 wpa\_gmk\_rekey=86400
-
 ```
 
 My chroot environment is located on a 3GHz 32bit Intel machine at /soekris\_chroot/.
 
-
 Every time before updating i am using rsync to assign local updates to the chroot. Delete the "-n" switch if it looks good.
 
-
 First part: Transfer local changes from soekris box to chroot environment. Attention: "--delete" is dangerous ;)
-
-
-
 
 ```
 rsync --delete -Onalvz --numeric-id --exclude 'sys/' --exclude 'dev/' --exclude 'root/' \
@@ -181,15 +141,9 @@ rsync --delete -Onalvz --numeric-id --exclude 'sys/' --exclude 'dev/' --exclude 
 'var/run/' --exclude 'var/log' --exclude 'tmp/' --exclude 'var/lib/init.d/' \
 --exclude 'etc/chrony/chrony.drift' --exclude 'etc/adjtime' --exclude \
 'etc/resolv.conf' root@soekris:/ /soekris\_chroot/
-
 ```
 
-  
-
 Second part: Using this script to work in chroot, update everything and transfer updates to soekris.
-
-
-
 
 ```
 #!/bin/bash
@@ -207,13 +161,4 @@ echo "rsync --delete  -Onalvz  --numeric-id --exclude 'sys/' --exclude 'dev/' --
 'var/lib/init.d/' --exclude 'etc/chrony/chrony.drift' \
 --exclude 'etc/adjtime' --exclude 'etc/resolv.conf' /soekris\_chroot/ \
 root@soekris:/"
-
 ```
-
-
-
-Retrieved from "[http://wiki.soekris.info/Gentoo\_2.6.28.2](Gentoo_2.6.28.2.html)"
-[Categories](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Linux](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category_Linux&action=edit "Category_Linux") | [Installation](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category_Installation&action=edit "Category_Installation") | [Gentoo](https://web.archive.org/web/20180610231509/http://wiki.soekris.info/index.php?title=Category_Gentoo&action=edit "Category_Gentoo")
-
- 
-

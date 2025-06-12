@@ -1,33 +1,18 @@
+# Category: Net4501
 
-### From Soekris Info Wiki
-
-
-
-Jump to: [navigation](./Category_Net4501.html#column-one), [search](./Category_Net4501.html#searchInput) 
 133 Mhz 486 based communication mainboard
 
-
-
-#  Soekris Engineering net4501
-
+## Soekris Engineering net4501
 
 This compact, low-power, low-cost, advanced communication computer is based on a 133 Mhz 486 class processor. It has three 10/100 Mbit ethernet ports, up to 64 Mbyte SDRAM main memory and uses a CompactFlash module for program and data storage. It can be expanded using a MiniPCI type III board and a low-power standard PCI board. 
 
-
 It has been optimized for use as a Firewall and VPN Router, but has the flexibility to take on a whole range of different functions as a communication appliance. The board is designed for long life and low power.
-
 
 It will be available in any volume in the standard version, and as board only or with a small metal box and various power supplies. The board can be customized according to requirements when ordering higher volume.
 
-
-
-#  Hardware and Software
-
+## Hardware and Software
 
 Specifications:
-
-
-
 
 ```
    * 100/133 Mhz AMD ElanSC520
@@ -50,9 +35,6 @@ Specifications:
 
 Software:
 
-
-
-
 ```
    * comBIOS for full headless operation over serial port
    * PXE boot rom for diskless booting
@@ -63,37 +45,16 @@ Software:
 
 Replacement Internal Battery:
 
+* [Panasonic ML621S/F9DE](https://web.archive.org/web/20180610231418/http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html) - available from DigiKey and others.
 
-
-
-```
-   * [Panasonic ML621S/F9DE](https://web.archive.org/web/20180610231418/http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html "http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html") - available from DigiKey and others.
-
-```
-
-##   External links
-
+## External links
 
 * [Soekris net4501 page](https://web.archive.org/web/20180610231418/http://www.soekris.com/net4501.htm "http://www.soekris.com/net4501.htm")
 
-
-
-
 ## Articles in category "Net4501"
-
 
 There is one article in this category.
 
-
 ### N
 
-
-* [Net4501 NTP Server](https://web.archive.org/web/20180610231418/http://wiki.soekris.info/Net4501_NTP_Server "Net4501 NTP Server")
-
-
-
-Retrieved from "[http://wiki.soekris.info/Category_Net4501](./Category_Net4501.html)"
-[Categories](https://web.archive.org/web/20180610231418/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180610231418/http://wiki.soekris.info/Category_Products "Category_Products") | [Net45xx](https://web.archive.org/web/20180610231418/http://wiki.soekris.info/index.php?title=Category_Net45xx&action=edit "Category_Net45xx")
-
- 
-
+* [Net4501 NTP Server](Net4501_NTP_Server.md)

@@ -1,32 +1,22 @@
-
-### From Soekris Info Wiki
-
-
-
-Jump to: [navigation](Gentoo_3.15.5.html#column-one), [search](Gentoo_3.15.5.html#searchInput) 
-
+# Gentoo 3.15.5
 
 |  |
 | --- |
-| Contents* [1 TODO: THIS ARTICLE IS NOT FINISHED YET!](Gentoo_3.15.5.html#TODO:_THIS_ARTICLE_IS_NOT_FINISHED_YET.21)
-* [2 Summary](Gentoo_3.15.5.html#Summary)
-* [3 Usage](Gentoo_3.15.5.html#Usage)
-* [4 Installation](Gentoo_3.15.5.html#Installation)
-* [5 Gentoo Configuration](Gentoo_3.15.5.html#Gentoo_Configuration)
-* [6 Kernel](Gentoo_3.15.5.html#Kernel)
-* [7 GRUB2](Gentoo_3.15.5.html#GRUB2)
-* [8 Networking](Gentoo_3.15.5.html#Networking)
+| Contents* [1 TODO: THIS ARTICLE IS NOT FINISHED YET!](Gentoo_3.15.5.md#TODO:_THIS_ARTICLE_IS_NOT_FINISHED_YET.21)
+* [2 Summary](Gentoo_3.15.5.md#Summary)
+* [3 Usage](Gentoo_3.15.5.md#Usage)
+* [4 Installation](Gentoo_3.15.5.md#Installation)
+* [5 Gentoo Configuration](Gentoo_3.15.5.md#Gentoo_Configuration)
+* [6 Kernel](Gentoo_3.15.5.md#Kernel)
+* [7 GRUB2](Gentoo_3.15.5.md#GRUB2)
+* [8 Networking](Gentoo_3.15.5.md#Networking)
  |
 
- if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } 
-#   TODO: THIS ARTICLE IS NOT FINISHED YET!
-
+## TODO: THIS ARTICLE IS NOT FINISHED YET!
 
 *  Feel free to add things!
 
-
-#   Summary
-
+## Summary
 
 *  This document describes how Gentoo was configured on a Soekris NET6501-70.
 *  As the whole system is installed with testing (~amd64 Arch), you should know, what you are doing!
@@ -34,27 +24,20 @@ Jump to: [navigation](Gentoo_3.15.5.html#column-one), [search](Gentoo_3.15.5.htm
 *  I've chosen Gentoo, because it doesn't have any fixed releases but rolling releases.
 *  As Gentoo means compiling the whole system, you can very specific adjust every package for your needs.
 
-
-#   Usage
-
+## Usage
 
 *  My usage with Gentoo is primary for home routing:
-
-
 
 ```
  eth0: LAN (connected to a gigabit switch)
  eth1: VOIP (connected directly to a voip phone)
  eth2: IPTV (connected directly to a iptv reciever) 
  eth3: WAN (connected directly to a vdsl modem)
-
 ```
 
 *  I am also running some small services for my LAN: ddclient, dnsmasq, hostapd, miniupnpd, nfs, samba, vnstatd
 
-
-#   Installation
-
+## Installation
 
 *  I don't want to show you here a detailed installation procedure, as you can do it, as described in the official Gentoo docs.
 *  You can find this documentation here: [Gentoo Installation Handbook](https://web.archive.org/web/20180610231515/http://www.gentoo.org/doc/en/handbook/handbook-amd64.xml "http://www.gentoo.org/doc/en/handbook/handbook-amd64.xml")
@@ -63,13 +46,9 @@ Jump to: [navigation](Gentoo_3.15.5.html#column-one), [search](Gentoo_3.15.5.htm
 *  SystemRescueCd includes a PXE boot server. Just launch it from another PC, so you Soekris can directly PXE boot from this one.
 *  Proceed, as the Gentoo Installation Handbook describes.
 
-
-#   Gentoo Configuration
-
+## Gentoo Configuration
 
 *  This is my /etc/portage/make.conf:
-
-
 
 ```
  # === Apps ===
@@ -101,25 +80,19 @@ Jump to: [navigation](Gentoo_3.15.5.html#column-one), [search](Gentoo_3.15.5.htm
  # === Language ===
  ENABLE\_UNICODE="utf-8"
  LINGUAS="de"
-
 ```
 
-#   Kernel
-
+## Kernel
 
 *  My curent kernel config can be found here: [Gentoo Sources 3.15.5](https://web.archive.org/web/20180610231515/http://wiki.soekris.info/Kernel_3.15.5_gentoo_sources "Kernel 3.15.5 gentoo sources")
 *  It's stripped down to a minimal version, so its only supports that, what a soekris really has. Additionally, ath9k for Atheros is enabled. You can of course modify the options.
 *  Main purpose is home routing and small lan services.
 
-
-#   GRUB2
-
+## GRUB2
 
 *  My GRUB2 won't boot, if ConMute = Enabled is NOT set in comBIOS!
 *  Change --speed to your specified speed in comBIOS!
 *  /etc/default/grub2:
-
-
 
 ```
  GRUB\_CMDLINE\_LINUX="console=ttyS0,115200n8 nf\_conntrack.nf\_conntrack\_helper=0 rootfstype=ext4"
@@ -134,19 +107,15 @@ Jump to: [navigation](Gentoo_3.15.5.html#column-one), [search](Gentoo_3.15.5.htm
  GRUB\_HIDDEN\_TIMEOUT=0
  GRUB\_HIDDEN\_TIMEOUT\_QUIET=true
  GRUB\_TIMEOUT=10
-
 ```
 
-#   Networking
-
+## Networking
 
 *  This configuration shows my setup from eth0 to eth3.
 *  Additionally I've enabled IPv6, which is brought by [[Hurricane Electric Internet Services](https://web.archive.org/web/20180610231515/https://www.he.net/ "https://www.he.net/")]
 *  It's an IPv6 tunnel broker. You can get a free account with your own subnet. You just have to [[register](https://web.archive.org/web/20180610231515/http://www.tunnelbroker.net/ "http://www.tunnelbroker.net/")]
 *  MTU > 1500 seems to make problems with serving PXE booting. Because of that, it's commented out.
 *  This is my /etc/conf.d/net
-
-
 
 ```
  # Modules
@@ -188,13 +157,4 @@ Jump to: [navigation](Gentoo_3.15.5.html#column-one), [search](Gentoo_3.15.5.htm
  depend\_ppp0() {
      need net.eth3
  }
-
 ```
-
-
-
-Retrieved from "[http://wiki.soekris.info/Gentoo\_3.15.5](Gentoo_3.15.5.html)"
-[Categories](https://web.archive.org/web/20180610231515/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Linux](https://web.archive.org/web/20180610231515/http://wiki.soekris.info/index.php?title=Category_Linux&action=edit "Category_Linux") | [Installation](https://web.archive.org/web/20180610231515/http://wiki.soekris.info/index.php?title=Category_Installation&action=edit "Category_Installation") | [Gentoo](https://web.archive.org/web/20180610231515/http://wiki.soekris.info/index.php?title=Category_Gentoo&action=edit "Category_Gentoo")
-
- 
-

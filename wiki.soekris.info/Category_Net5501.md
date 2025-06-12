@@ -1,15 +1,8 @@
+# Category: Net5501
 
-### From Soekris Info Wiki
-
-
-
-Jump to: [navigation](./Category_Net5501.html#column-one), [search](./Category_Net5501.html#searchInput) 
 faster mid-range communications mainboard, with a 433 to 500 Mhz Geode LX
 
-
-
-#  Soekris Engineering net5501
-
+## Soekris Engineering net5501
 
 This compact, low-power, low-cost, advanced communication computer is based on an up to 500 Mhz 586 class processor. It has four 10/100 Mbit ethernet ports, up to 1 Gbyte DDR-SDRAM main memory and uses a CompactFlash module for program and data storage. It can be expanded using a MiniPCI type III board, a hard drive and one or two low-power standard PCI board.
 
@@ -19,15 +12,9 @@ It has been optimized for use as a Firewall, VPN Router, Internet Gateway and Vo
 
 It will be available in any volume in the standard version, and as board only or with a small metal box and various power supplies. The board can be customized according to requirements when ordering higher volume.
 
-
-
-#  Hardware and Software
-
+## Hardware and Software
 
 Specifications:
-
-
-
 
 ```
    * 433 to 600 Mhz AMD Geode LX single chip processor with CS5536 companion chip
@@ -55,8 +42,6 @@ Specifications:
 Cases available:
 
 
-
-
 ```
    * Standard case with 1 PCI slot, 6.7" x 11.4" x 1.3".
    * 1U 19" rackmount with with 2 PCI slots (available October 2007).
@@ -64,9 +49,6 @@ Cases available:
 ```
 
 Software:
-
-
-
 
 ```
    * comBIOS for full headless operation over serial port
@@ -79,33 +61,18 @@ Software:
 Replacement Internal Battery:
 
 
-
-
 ```
    * net4801, net5501: [Panasonic ML1220/V1AE](https://web.archive.org/web/20180811114033/http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html "http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html") - available from DigiKey and others.  
 
 ```
 
-  
-
-
-
-
-##   External links
-
+## External links
 
 * [Soekris net5501 page](https://web.archive.org/web/20180811114033/http://www.soekris.com/net5501.htm "http://www.soekris.com/net5501.htm")
 
-
-
-
 ## Articles in category "Net5501"
 
-
 There are 8 articles in this category.
-
-
-
 
 |  |  |  |
 | --- | --- | --- |
@@ -121,11 +88,3 @@ P* [Performance tuning](https://web.archive.org/web/20180811114033/http://wiki.s
 
 W* [What do all those BIOS settings do?](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/What_do_all_those_BIOS_settings_do%3F "What do all those BIOS settings do?")
  |
-
-
-
-Retrieved from "[http://wiki.soekris.info/Category_Net5501](./Category_Net5501.html)"
-[Categories](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Special:Categories "Special:Categories"): [Products](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Category_Products "Category_Products") | [Net55xx](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/index.php?title=Category_Net55xx&action=edit "Category_Net55xx")
-
- 
-
