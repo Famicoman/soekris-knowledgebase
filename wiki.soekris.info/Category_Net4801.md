@@ -33,7 +33,6 @@ Specifications:
    * Power using external power supply is 6-20V DC, max 15 Watt
    * Option for 5V supply using internal connector
    * Operating temperature 0-60 °C
-
 ```
 
 Software:
@@ -43,7 +42,6 @@ Software:
    * PXE boot rom for diskless booting
    * Designed for FreeBSD, NetBSD, OpenBSD and Linux
    * Runs most realtime operating systems
-
 ```
 
 Replacement Internal Battery:

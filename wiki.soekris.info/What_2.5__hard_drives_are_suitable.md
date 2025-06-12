@@ -1,18 +1,5 @@
 # What 2.5" hard drives are suitable?
 
-|  |
-| --- |
-| Contents* [1 Overview](What_2.5"_hard_drives_are_suitable.md#Overview)
-	+ [1.1 Duty Cycle Considerations](What_2.5"_hard_drives_are_suitable.md#Duty_Cycle_Considerations)
-	+ [1.2 Block Size Considerations](What_2.5"_hard_drives_are_suitable.md#Block_Size_Considerations)
-	+ [1.3 Spindown is Bad](What_2.5"_hard_drives_are_suitable.md#Spindown_is_Bad)
-	+ [1.4 Heat](What_2.5"_hard_drives_are_suitable.md#Heat)
-* [2 Particular drives](What_2.5"_hard_drives_are_suitable.md#Particular_drives)
-	+ [2.1 Solid State Drives](What_2.5"_hard_drives_are_suitable.md#Solid_State_Drives)
-	+ [2.2 Hitachi Drives](What_2.5"_hard_drives_are_suitable.md#Hitachi_Drives)
-	+ [2.3 Fujitsu Drives](What_2.5"_hard_drives_are_suitable.md#Fujitsu_Drives)
- |
-
 ## Overview
 
 Soekris sells mounting kits for 2.5" hard drives, which include a mounting bracket, standoffs and a short signal cable. net4801 supports PATA. net5501 supports PATA or SATA (this is connected by a bridge to PATA; you can't use both ports and a CF; it is possible to use one PATA and one SATA drive together with a [workaround](Master_Slave.md "Master/Slave")). For DMA support on net5501, use comBIOS 1.32i or newer, and a recent OS release.

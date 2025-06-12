@@ -30,4 +30,4 @@ This is fixed in comBIOS 1.32i
 *  Incompatibilities with pxelinux. See "Aside:" at bottom of [http://lists.soekris.com/pipermail/soekris-tech/2007-November/013353.html](https://web.archive.org/web/20180610231604/http://lists.soekris.com/pipermail/soekris-tech/2007-November/013353.html "http://lists.soekris.com/pipermail/soekris-tech/2007-November/013353.html")
 *  Lack of documentation. (Leads to problems like: [http://syslinux.zytor.com/archives/2004-April/003362.html](https://web.archive.org/web/20180610231604/http://syslinux.zytor.com/archives/2004-April/003362.html "http://syslinux.zytor.com/archives/2004-April/003362.html") Solution is a pxelinux.cfg 'CONSOLE 0' line.)
 
-[Net5501](Category_Net5501.md "Category_Net5501")
+Categories: [Net5501](Category_Net5501.md "Category_Net5501")

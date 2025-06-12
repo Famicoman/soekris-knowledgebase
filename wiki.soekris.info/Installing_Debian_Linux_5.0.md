@@ -1,19 +1,5 @@
 # Installing Debian Linux 5.0
 
-|  |
-| --- |
-| Contents* [1 Installing Debian 5.0 on a Soekris](Installing_Debian_Linux_5.0.md #Installing_Debian_5.0_on_a_Soekris)
-* [2 Outline](Installing_Debian_Linux_5.0.md #Outline)
-* [3 Get the files](Installing_Debian_Linux_5.0.md #Get_the_files)
-* [4 Serial Console](Installing_Debian_Linux_5.0.md #Serial_Console)
-* [5 Set up a dhcp server](Installing_Debian_Linux_5.0.md #Set_up_a_dhcp_server)
-* [6 Set up a TFTP server](Installing_Debian_Linux_5.0.md #Set_up_a_TFTP_server)
-* [7 Modify installer to work with a serial console](Installing_Debian_Linux_5.0.md #Modify_installer_to_work_with_a_serial_console)
-* [8 Install!](Installing_Debian_Linux_5.0.md #Install.21)
-	+ [8.1 grub legacy](Installing_Debian_Linux_5.0.md #grub_legacy)
-	+ [8.2 Grub2](Installing_Debian_Linux_5.0.md #Grub2)
- |
-
 ## Installing Debian 5.0 on a Soekris
 
 This guide will give you a few tips for installing debian 5.0 on your Soekris device. I won't walk you through every detail of installing debian, there are lots of guides for that. I ran all of the commands below as root. I should direct you to use sudo for every command but instead I'll say "be careful".
@@ -25,18 +11,11 @@ See also [Installing Debian Linux (4.0r1 Etch)](Installing_Debian_Linux_%284.0r1
 You can follow this general procedure:
 
 1. Update your soekris firmware. Instructions on this are on the soekris site. I'll admit cheating and using hyperterm on a 10y old laptop for this (booo)
-
 2. Get the netboot files for debian. You don't need to download the whole distribution unless your soekris won't have internet access.
-
 3. Get a serial console working with your soekris. Quick info on that is 19200,8N1
-
 3. Set up a PXE boot environment. This includes a DHCP server with a custom configuration and a tftp server.
-
 5. Modify the netboot files a little to work with a serial console. Debian used to come with this but it's gone now.
-
 6. Boot and install normally
-
-
 7. Modify new installation to boot properly and support serial console.
 
 ## Get the files

@@ -2,16 +2,6 @@
 
 Soekris Engineering has published User Manuals for the Net4501 and Net4801, for their other boards documentation is scarce. This is an attempt to collect documentation those boards, mostly found in the [soekris-tech mailing list archives](https://web.archive.org/web/20180610231720/http://marc.info/?l=soekris-tech "http://marc.info/?l=soekris-tech").
 
-|  |
-| --- |
-| Contents* [1 net4501](Unofficial_Hardware_Manual.md#net4501)
-* [2 net4511, net4521](Unofficial_Hardware_Manual.md#net4511.2C_net4521)
-* [3 net4526](Unofficial_Hardware_Manual.md#net4526)
-* [4 net4801](Unofficial_Hardware_Manual.md#net4801)
-* [5 net4826](Unofficial_Hardware_Manual.md#net4826)
-* [6 net5501](Unofficial_Hardware_Manual.md#net5501)
- |
-
 ## [net4501](https://web.archive.org/web/20180610231720/http://www.soekris.com/net4501.htm "http://www.soekris.com/net4501.htm")
 
 See [http://www.soekris.com/manuals/net4501\_manual.pdf](https://web.archive.org/web/20180610231720/http://www.soekris.com/manuals/net4501_manual.pdf "http://www.soekris.com/manuals/net4501_manual.pdf")

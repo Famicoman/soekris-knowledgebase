@@ -2,16 +2,6 @@
 
 [comBIOS updates](https://web.archive.org/web/20180812042147/http://www.soekris.com/downloads.htm "http://www.soekris.com/downloads.htm") are occasionally made available to [fix bugs and add features](https://web.archive.org/web/20180812042147/http://www.soekris.com/Software/changelog.txt "http://www.soekris.com/Software/changelog.txt"). Old versions continue to be available but one should not downgrade to a version earlier than that supplied with the board (for example, newer flash chips aren't supported by older versions).
 
-|  |
-| --- |
-| Contents* [1 Basic procedure](Updating_Bios.md#Basic_procedure)
-* [2 cu and tip](Updating_Bios.md#cu_and_tip)
-* [3 Screen](Updating_Bios.md#Screen)
-* [4 Minicom](Updating_Bios.md#Minicom)
-* [5 TeraTerm bulk update script](Updating_Bios.md#TeraTerm_bulk_update_script)
-* [6 Links to other guides](Updating_Bios.md#Links_to_other_guides)
- |
-
 ## Basic procedure
 
 The basic procedure for updating is to enter the comBIOS monitor by [serial console](https://web.archive.org/web/20180812042147/http://wiki.soekris.info/Connecting_to_the_serial_console "Connecting to the serial console"), transfer the file to RAM using XMODEM, then programme the flash memory:

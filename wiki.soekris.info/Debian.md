@@ -4,18 +4,6 @@ This page assumes that you are familiar with operating a Soekris box, and descri
 
 There are two main methods to install Debian (and its derivatives) on systems which are unable to use traditional bootable installation media. The first, and most commonly used among Soekris users, is to boot from the network using PXE. The second is similar to how some other distributions such as Gentoo are installed: the base system is first loaded on the target installation media by connecting it to a pre-existing system (in Debian, this is done with the debootstrap tool), and the media is then transferred to the target system. The first solution may be simpler for beginners since the installer program is the same as that found on the traditional installation media, but on the other hand it requires an external PXE server for booting. 
 
-|  |
-| --- |
-| Contents* [1 Booting and installing by PXE](Debian.md#Booting_and_installing_by_PXE)
-	+ [1.1 Setting up the PXE server and booting](Debian.md#Setting_up_the_PXE_server_and_booting)
-	+ [1.2 Pre-made virtual machine](Debian.md#Pre-made_virtual_machine)
-	+ [1.3 After the installation](Debian.md#After_the_installation)
-* [2 Installing with debootstrap](Debian.md#Installing_with_debootstrap)
-	+ [2.1 Partitioning the installation media](Debian.md#Partitioning_the_installation_media)
-	+ [2.2 Running debootstrap](Debian.md#Running_debootstrap)
-	+ [2.3 Final configuration](Debian.md#Final_configuration)
- |
-
 ## Booting and installing by PXE
 
 To boot and install an OS on your Soekris box by PXE, you will need an additional machine on your network to serve as a PXE server. A fast Internet connection is also desirable since everything will be downloaded from the Internet. Although many other pages on this Wiki describe how to setup a PXE booting server, I will still do it here for the sake of completeness (and to offer my personal perspective). Because the PXE server will also act as a DHCP server, it is best to temporarily disable all other DHCP servers on your network (in particular, the one on your Internet gateway if there is one).

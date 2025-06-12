@@ -34,7 +34,6 @@ Specifications
 * NiMH batteri backup connector with charge and monitoring
 * Option for 5V supply using internal connector
 * Operating temperature 0-60 °C
-
 ```
 
 Cases Available
@@ -42,7 +41,6 @@ Cases Available
 ```
 * Standard case with 1 PCI-Express slot, 5.9" x 11.0" x 1.3"
 * 1U 19" rackmount with with 2 PCI-Express slots and 40W Internal Power Supply
-
 ```
 
 Software
@@ -52,7 +50,6 @@ Software
 * PXE boot rom for diskless booting
 * Designed for FreeBSD, NetBSD, OpenBSD and Linux
 * Runs most realtime operating systems
-
 ```
 
 ## Articles in category "Net6501"
@@ -60,7 +57,6 @@ Software
 There are 4 articles in this category.
 
 ### N
-
 
 * [Net6501 FPGA](Net6501_FPGA.md "Net6501 FPGA")
 * [Net6501 Interfaces](Net6501_Interfaces.md "Net6501 Interfaces")

@@ -2,16 +2,6 @@
 
 This is a short guide to help you to get started with the Debian network install on the Soekirs. Witch can be a little tricky. 
 
-|  |
-| --- |
-| Contents* [1 What you need](Installing_Debian_Linux_(4.0r1_Etch)_from_Windows_mini-HOWTO.md #What_you_need)
-* [2 Prepare everything](Installing_Debian_Linux_(4.0r1_Etch)_from_Windows_mini-HOWTO.md #Prepare_everything)
-	+ [2.1 Set up the debian net insall](Installing_Debian_Linux_(4.0r1_Etch)_from_Windows_mini-HOWTO.md #Set_up_the_debian_net_insall)
-	+ [2.2 Set up the Soekris Box](Installing_Debian_Linux_(4.0r1_Etch)_from_Windows_mini-HOWTO.md #Set_up_the_Soekris_Box)
-* [3 Start the install of Debian linux](Installing_Debian_Linux_(4.0r1_Etch)_from_Windows_mini-HOWTO.md #Start_the_install_of_Debian_linux)
-* [4 Tuneup the serial port (after install)](Installing_Debian_Linux_(4.0r1_Etch)_from_Windows_mini-HOWTO.md #Tuneup_the_serial_port_.28after_install.29)
- |
-
 ## What you need
 
 * The last realase from Debian Linux netboot install PXE image from debian website, normaly a file called netboot.tar.gz
@@ -30,8 +20,7 @@ This is a short guide to help you to get started with the Debian network install
 * The installer from the archive is expecting to found a video device and a keyboard, so you have to tell him to use the serial interface instead. For that replace the file D:\pxelinux\prelinux.cfg\default by D:\pxelinux\debian-installer\i386\pxelinux.cfg.serial-9600\default.
 * Install Tftp 32 on your PC and configure it as follow :
 
-
-[![Tftpd32 setup](https://web.archive.org/web/20180812042306im_/http://wiki.soekris.info/images/Tftpd32.jpg)](https://web.archive.org/web/20180812042306/http://wiki.soekris.info/Image:Tftpd32.jpg "Tftpd32 setup")
+![Tftpd32 setup](images/Tftpd32.jpg)
 
 ### Set up the Soekris Box
 

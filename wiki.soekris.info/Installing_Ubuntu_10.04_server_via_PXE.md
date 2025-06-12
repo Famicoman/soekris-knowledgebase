@@ -1,32 +1,5 @@
 # Installing Ubuntu 10.04 server via PXE
 
-|  |
-| --- |
-| Contents* [1 Introduction](Installing_Ubuntu_10.04_server_via_PXE.md#Introduction)
-* [2 Serial connection to net5501-70](Installing_Ubuntu_10.04_server_via_PXE.md#Serial_connection_to_net5501-70)
-	+ [2.1 Install minicom](Installing_Ubuntu_10.04_server_via_PXE.md#Install_minicom)
-	+ [2.2 Connect to net5501](Installing_Ubuntu_10.04_server_via_PXE.md#Connect_to_net5501)
-* [3 comBIOS update](Installing_Ubuntu_10.04_server_via_PXE.md#comBIOS_update)
-* [4 DHCP server](Installing_Ubuntu_10.04_server_via_PXE.md#DHCP_server)
-	+ [4.1 Install DHCP server](Installing_Ubuntu_10.04_server_via_PXE.md#Install_DHCP_server)
-	+ [4.2 Config DHCP server](Installing_Ubuntu_10.04_server_via_PXE.md#Config_DHCP_server)
-	+ [4.3 Start dhcp server](Installing_Ubuntu_10.04_server_via_PXE.md#Start_dhcp_server)
-* [5 TFTP server](Installing_Ubuntu_10.04_server_via_PXE.md#TFTP_server)
-	+ [5.1 Install TFTP server](Installing_Ubuntu_10.04_server_via_PXE.md#Install_TFTP_server)
-* [6 INETD server](Installing_Ubuntu_10.04_server_via_PXE.md#INETD_server)
-	+ [6.1 Install INETD server](Installing_Ubuntu_10.04_server_via_PXE.md#Install_INETD_server)
-	+ [6.2 Config INETD server](Installing_Ubuntu_10.04_server_via_PXE.md#Config_INETD_server)
-	+ [6.3 Start INETD server](Installing_Ubuntu_10.04_server_via_PXE.md#Start_INETD_server)
-* [7 netboot.tar.gz](Installing_Ubuntu_10.04_server_via_PXE.md#netboot.tar.gz)
-	+ [7.1 Download file](Installing_Ubuntu_10.04_server_via_PXE.md#Download_file)
-	+ [7.2 Extract file](Installing_Ubuntu_10.04_server_via_PXE.md#Extract_file)
-	+ [7.3 Config installer](Installing_Ubuntu_10.04_server_via_PXE.md#Config_installer)
-* [8 Soekris and PXE](Installing_Ubuntu_10.04_server_via_PXE.md#Soekris_and_PXE)
-	+ [8.1 Boot from PXE](Installing_Ubuntu_10.04_server_via_PXE.md#Boot_from_PXE)
-	+ [8.2 Workaround to let Soekris automatically boot from CF](Installing_Ubuntu_10.04_server_via_PXE.md#Workaround_to_let_Soekris_automatically_boot_from_CF)
-* [9 Scripts](Installing_Ubuntu_10.04_server_via_PXE.md#Scripts)
- |
-
 ## Introduction
 
 This guide shows how to install an Ubuntu 10.04 32Bit server system on a soekris net5501-70 with an Compact Flash (CF) as storage device.

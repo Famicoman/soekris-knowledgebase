@@ -1,23 +1,5 @@
 # Installing Debian Linux (4.0r1 Etch)
 
-|  |
-| --- |
-| Contents* [1 PXEBoot Debian Netinstall to a CF Card](Installing_Debian_Linux_(4.0r1_Etch).md #PXEBoot_Debian_Netinstall_to_a_CF_Card)
-	+ [1.1 External Resources](Installing_Debian_Linux_(4.0r1_Etch).md #External_Resources)
-	+ [1.2 Getting Started](Installing_Debian_Linux_(4.0r1_Etch).md #Getting_Started)
-		- [1.2.1 Things you'll need](Installing_Debian_Linux_(4.0r1_Etch).md #Things_you.27ll_need)
-		- [1.2.2 Useful Tip #1](Installing_Debian_Linux_(4.0r1_Etch).md #Useful_Tip_.231)
-		- [1.2.3 Useful Tip #2](Installing_Debian_Linux_(4.0r1_Etch).md #Useful_Tip_.232)
-		- [1.2.4 Tips for Emacs users](Installing_Debian_Linux_(4.0r1_Etch).md #Tips_for_Emacs_users)
-	+ [1.3 Flash Card Geometry (PNY in this example)](Installing_Debian_Linux_(4.0r1_Etch).md #Flash_Card_Geometry_.28PNY_in_this_example.29)
-	+ [1.4 PXEBooting the boxes](Installing_Debian_Linux_(4.0r1_Etch).md #PXEBooting_the_boxes)
-		- [1.4.1 Server setup](Installing_Debian_Linux_(4.0r1_Etch).md #Server_setup)
-		- [1.4.2 BIOS Setup](Installing_Debian_Linux_(4.0r1_Etch).md #BIOS_Setup)
-	+ [1.5 Running the NetInstall](Installing_Debian_Linux_(4.0r1_Etch).md #Running_the_NetInstall)
-		- [1.5.1 Disk Partitions](Installing_Debian_Linux_(4.0r1_Etch).md #Disk_Partitions)
-	+ [1.6 Final Setup Items](Installing_Debian_Linux_(4.0r1_Etch).md #Final_Setup_Items)
- |
-
 ## PXEBoot Debian Netinstall to a CF Card
 
 ### External Resources

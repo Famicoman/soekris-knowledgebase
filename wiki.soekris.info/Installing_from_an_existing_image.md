@@ -2,20 +2,6 @@
 
 This guide details how to install an existing Linux image to a Soekris board. In my case, I copied a net-installed image of Debian 5.0 running under VirtualBox to a [Soekris 5501](Net5501.md "Net5501") with a 320GB Seagate HD.
 
-|  |
-| --- |
-| Contents* [1 Prepare the image](Installing_from_an_existing_image.md#Prepare_the_image)
-	+ [1.1 Modify GRUB](Installing_from_an_existing_image.md#Modify_GRUB)
-	+ [1.2 Modify Linux settings](Installing_from_an_existing_image.md#Modify_Linux_settings)
-		- [1.2.1 Change the fstab](Installing_from_an_existing_image.md#Change_the_fstab)
-		- [1.2.2 Blow out udev persistent net rules (recommended)](Installing_from_an_existing_image.md#Blow_out_udev_persistent_net_rules_.28recommended.29)
-		- [1.2.3 Add a serial console (recommended)](Installing_from_an_existing_image.md#Add_a_serial_console_.28recommended.29)
-	+ [1.3 Convert the image](Installing_from_an_existing_image.md#Convert_the_image)
-	+ [1.4 Copy the image](Installing_from_an_existing_image.md#Copy_the_image)
-* [2 Update The Firmware](Installing_from_an_existing_image.md#Update_The_Firmware)
-* [3 Connect via Serial](Installing_from_an_existing_image.md#Connect_via_Serial)
- |
-
 ## Prepare the image
 
 The first step is to prepare the existing image for copying to a Soekris board. The first couple of steps will need to be done to the live image, before converting and copying it. If you know what you're doing, they can be skipped and done after the image is copied (ie, modifying the GRUB settings using 'e' in the loader) but that can get tricky.

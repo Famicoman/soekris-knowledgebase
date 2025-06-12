@@ -1,19 +1,5 @@
 # Debian Squeeze On Soekris.
 
-|  |
-| --- |
-| Contents* [1 Installing Debian Squeeze on a Soekris Box](Debian_Squeeze_On_Soekris.html#Installing_Debian_Squeeze_on_a_Soekris_Box)
-* [2 Process Overview:](Debian_Squeeze_On_Soekris.html#Process_Overview:)
-* [3 Step 1: Installing a hard drive](Debian_Squeeze_On_Soekris.html#Step_1:_Installing_a_hard_drive)
-* [4 Step 2: Specify a TFTP server through DHCP](Debian_Squeeze_On_Soekris.html#Step_2:_Specify_a_TFTP_server_through_DHCP)
-* [5 Step 3: Seting up a TFTP server](Debian_Squeeze_On_Soekris.html#Step_3:_Seting_up_a_TFTP_server)
-* [6 Step 3: The Easy (Lazy?) Way](Debian_Squeeze_On_Soekris.html#Step_3:_The_Easy_.28Lazy.3F.29_Way)
-* [7 Step 4: Connecting to Your Soekris Box](Debian_Squeeze_On_Soekris.html#Step_4:_Connecting_to_Your_Soekris_Box)
-* [8 Step 5: Booting the Soekris Box](Debian_Squeeze_On_Soekris.html#Step_5:_Booting_the_Soekris_Box)
-* [9 Step 6: Reboot](Debian_Squeeze_On_Soekris.html#Step_6:_Reboot)
-* [10 Links](Debian_Squeeze_On_Soekris.html#Links)
- |
-
 ## Installing Debian Squeeze on a Soekris Box
 
 There are several guides in the Soekris wiki on installing Debian on a Soekris box, but none of them deal with Debian Squeeze and there are some points that they have missed here and there. The purpose of this page is to be all-inclusive. By all-inclusive, I also mean that if it's covered well elsewhere, instead of repeating it, I'll link to the page.

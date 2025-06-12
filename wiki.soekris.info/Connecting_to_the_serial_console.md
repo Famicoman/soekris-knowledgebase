@@ -10,15 +10,6 @@ Some people permanently connect a DE9-F<>RJ45 adapter (as often used when connec
 
 [Updating the BIOS](Updating_Bios.md "Updating Bios") is dealt with on a separate page.
 
-|  |
-| --- |
-| Contents* [1 Standard UNIX-like OS](Connecting_to_the_serial_console.md#Standard_UNIX-like_OS)
-	+ [1.1 Logging console activities](Connecting_to_the_serial_console.md#Logging_console_activities)
-* [2 Mac OS X](Connecting_to_the_serial_console.md#Mac_OS_X)
-* [3 Linux: Ubuntu or Other Distro](Connecting_to_the_serial_console.md#Linux:_Ubuntu_or_Other_Distro)
-* [4 Windows](Connecting_to_the_serial_console.md#Windows)
- |
-
 # Standard UNIX-like OS
 
 Assuming a serial line on /dev/tty00 and Soekris default port speed of 19200 baud:

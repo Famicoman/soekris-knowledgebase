@@ -99,4 +99,4 @@ CpuSpeed = Default
         Change CPU clocking speed.
 ```
 
-[Net4801](Category_Net4801.md) | [Net5501](Category_Net5501.md)
+Categories: [Net4801](Category_Net4801.md) | [Net5501](Category_Net5501.md)

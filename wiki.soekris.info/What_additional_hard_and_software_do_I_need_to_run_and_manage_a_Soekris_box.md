@@ -1,14 +1,5 @@
 # What additional hard and software do I need to run and manage a Soekris box?
 
-|  |
-| --- |
-| Contents* [1 storage](What_additional_hard_and_software_do_I_need_to_run_and_manage_a_Soekris_box.md#storage)
-* [2 power](What_additional_hard_and_software_do_I_need_to_run_and_manage_a_Soekris_box.md#power)
-* [3 connectivity](What_additional_hard_and_software_do_I_need_to_run_and_manage_a_Soekris_box.md#connectivity)
-	+ [3.1 tcp/ip](What_additional_hard_and_software_do_I_need_to_run_and_manage_a_Soekris_box.md#tcp.2Fip)
-	+ [3.2 serial](What_additional_hard_and_software_do_I_need_to_run_and_manage_a_Soekris_box.md#serial)
- |
-
 # storage
 
 Although you could PXE boot off the network and run without a disk you will probably want to install an operating system on your soekris box. For this you will need some sort of non-volatile storage. Compact flash cards are often used. [2.5 inch laptop hard drives](What_2.5_hard_drives_are_suitable.md "What 2.5\" hard drives are suitable") are also an option. Solid state hard drives are now price competitive with fast compact flash cards and are faster. The time saved in OS install can be worth the extra cost of a little speed.

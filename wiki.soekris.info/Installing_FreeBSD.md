@@ -4,17 +4,6 @@ There are two ways to install [FreeBSD](https://web.archive.org/web/201806102315
 
 Note: FreeBSD 6.3R requires comBIOS version 1.32i on the net5501, or the boot will hang when first attempting DMA.
 
-|  |
-| --- |
-| Contents* [1 Compact flash](Installing_FreeBSD.md #Compact_flash)
-* [2 Net boot](Installing_FreeBSD.md #Net_boot)
-* [3 Kernel customization](Installing_FreeBSD.md #Kernel_customization)
-	+ [3.1 net5501](Installing_FreeBSD.md #net5501)
-	+ [3.2 net6501](Installing_FreeBSD.md #net6501)
-	+ [3.3 Patch for PATA hard disk errors on FreeBSD 7.x and 8.x](Installing_FreeBSD.md #Patch_for_PATA_hard_disk_errors_on_FreeBSD_7.x_and_8.x)
-	+ [3.4 FreeBSD 8.2 PATA Disk Fix](Installing_FreeBSD.md #FreeBSD_8.2_PATA_Disk_Fix)
- |
-
 ## Compact flash
 
 * [NanoBSD](https://web.archive.org/web/20180610231544/http://www.freebsd.org/doc/en_US.ISO8859-1/articles/nanobsd/howto.html "http://www.freebsd.org/doc/en_US.ISO8859-1/articles/nanobsd/howto.html") is a shell script that creates a bootable compact flash image from the FreeBSD sources. NanoBSD gives you control of which features you add to save space. The resulting image is targeted for half of the CF card, allowing alternating in place upgrades to the other half. It was written by Soekris-Tech regular Poul-Henning Kamp.

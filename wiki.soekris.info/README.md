@@ -2,17 +2,6 @@
 
 **Welcome to the soekris wiki :)**
 
-|  |
-| --- |
-| Contents* [1 The Soekris Wiki](Main_Page.html#The_Soekris_Wiki)
-* [2 General Questions](Main_Page.html#General_Questions)
-* [3 Hardware](Main_Page.html#Hardware)
-* [4 BIOS](Main_Page.html#BIOS)
-* [5 Operating Systems](Main_Page.html#Operating_Systems)
-* [6 How To's and Other Guides](Main_Page.html#How_To.27s_and_Other_Guides)
-* [7 Performance and Benchmarking](Main_Page.html#Performance_and_Benchmarking)
- |
-
 Soekris Engineering, Inc. is a small company specializing in the design of embedded computer and communication devices. The founder and CEO, Soren Kristensen, has 20 years of experience in network, communication and embedded computer design.
 
 They offer a line of standard products of x86 based communication computers for the OEM market. They are available in any volume, from single units to high volume, and can also be customized to individual requirements.
@@ -48,7 +37,7 @@ They offer a line of standard products of x86 based communication computers for 
 [Net5501](./Category_Net5501.md "Category_Net5501") |  [Net6501](./Category_Net6501.md "Category_Net6501")
 
 * [Unofficial Hardware Manuals](Unofficial_Hardware_Manual.md "Unofficial Hardware Manual")
-* [5501 Interfaces](5501_Interfaces.md "5501 Interfaces") and pin headers
+* [5501 Interfaces](Net5501_Interfaces.md "5501 Interfaces") and pin headers
 * [Hard drive mounting](Hard_drive_mounting.md "Hard drive mounting")
 * [What 2.5" hard drives are suitable](What_2.5_hard_drives_are_suitable.md "What 2.5\" hard drives are suitable")?
 * [Can I connect my 100GB 3.5 IDE drive to a Soekris box](Can_I_connect_my_100GB_3.5_IDE_drive_to_a_Soekris_box.md "Can I connect my 100GB 3.5 IDE drive to a Soekris box")?

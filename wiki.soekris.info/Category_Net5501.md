@@ -36,7 +36,6 @@ Specifications:
    * Power using external power supply is 6-25V DC, max 20 Watt, protected with TVS
    * Option for 5V supply using internal connector
    * Operating temperature 0-60 °C
-
 ```
 
 Cases available:
@@ -45,7 +44,6 @@ Cases available:
 ```
    * Standard case with 1 PCI slot, 6.7" x 11.4" x 1.3".
    * 1U 19" rackmount with with 2 PCI slots (available October 2007).
-
 ```
 
 Software:
@@ -55,16 +53,11 @@ Software:
    * PXE boot rom for diskless booting
    * Designed for FreeBSD, NetBSD, OpenBSD and Linux
    * Runs most realtime operating systems
-
 ```
 
 Replacement Internal Battery:
 
-
-```
-   * net4801, net5501: [Panasonic ML1220/V1AE](https://web.archive.org/web/20180811114033/http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html "http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html") - available from DigiKey and others.  
-
-```
+* net4801, net5501: [Panasonic ML1220/V1AE](https://web.archive.org/web/20180811114033/http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html "http://lists.soekris.com/pipermail/soekris-tech/2010-July/016691.html") - available from DigiKey and others.  
 
 ## External links
 
@@ -74,17 +67,25 @@ Replacement Internal Battery:
 
 There are 8 articles in this category.
 
-|  |  |  |
-| --- | --- | --- |
-| L* [Linux kernel .config collection](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Linux_kernel_.config_collection "Linux kernel .config collection")
+### L
 
-N* [Net5501 Interfaces](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Net5501_Interfaces "Net5501 Interfaces")
- | N cont.* [Net5501 JP5 GPIO Mappings](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Net5501_JP5_GPIO_Mappings "Net5501 JP5 GPIO Mappings")
+ * [Linux kernel .config collection](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Linux_kernel_.config_collection "Linux kernel .config collection")
+
+### N
+
+* [Net5501 Interfaces](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Net5501_Interfaces "Net5501 Interfaces")
+* [Net5501 JP5 GPIO Mappings](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Net5501_JP5_GPIO_Mappings "Net5501 JP5 GPIO Mappings")
 * [Net5501 Known bugs](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Net5501_Known_bugs "Net5501 Known bugs")
 
-P* [Performance tuning](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Performance_tuning "Performance tuning")
- | T* [Tuning net5501 freebsd](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Tuning_net5501_freebsd "Tuning net5501 freebsd")
+### P
+
+* [Performance tuning](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Performance_tuning "Performance tuning")
+
+### T
+
+* [Tuning net5501 freebsd](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Tuning_net5501_freebsd "Tuning net5501 freebsd")
 * [Tuning net5501 openbsd](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/Tuning_net5501_openbsd "Tuning net5501 openbsd")
 
-W* [What do all those BIOS settings do?](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/What_do_all_those_BIOS_settings_do%3F "What do all those BIOS settings do?")
- |
+### W
+
+* [What do all those BIOS settings do?](https://web.archive.org/web/20180811114033/http://wiki.soekris.info/What_do_all_those_BIOS_settings_do%3F "What do all those BIOS settings do?")

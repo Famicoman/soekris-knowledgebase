@@ -9,4 +9,4 @@ The net4501 is an excellent low-power / high-reliability device to use as a Stra
 * [The World's Most Accurate NTP Server Hardware?](https://web.archive.org/web/20180610231620/http://www.febo.com/pages/soekris/ "http://www.febo.com/pages/soekris/")
 * [Building a Stratum-1 GPS Based NTP Server with a Soekris net4501](https://web.archive.org/web/20180610231620/http://www.extremeoverclocking.com/articles/howto/Building_S1_NTP_Server_1.html "http://www.extremeoverclocking.com/articles/howto/Building_S1_NTP_Server_1.html")
 
-[Net4501](Category_Net4501.md "Category_Net4501")
+Categories: [Net4501](Category_Net4501.md "Category_Net4501")

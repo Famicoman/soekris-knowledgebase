@@ -1,17 +1,5 @@
 # Gentoo 3.15.5
 
-|  |
-| --- |
-| Contents* [1 TODO: THIS ARTICLE IS NOT FINISHED YET!](Gentoo_3.15.5.md#TODO:_THIS_ARTICLE_IS_NOT_FINISHED_YET.21)
-* [2 Summary](Gentoo_3.15.5.md#Summary)
-* [3 Usage](Gentoo_3.15.5.md#Usage)
-* [4 Installation](Gentoo_3.15.5.md#Installation)
-* [5 Gentoo Configuration](Gentoo_3.15.5.md#Gentoo_Configuration)
-* [6 Kernel](Gentoo_3.15.5.md#Kernel)
-* [7 GRUB2](Gentoo_3.15.5.md#GRUB2)
-* [8 Networking](Gentoo_3.15.5.md#Networking)
- |
-
 ## TODO: THIS ARTICLE IS NOT FINISHED YET!
 
 *  Feel free to add things!

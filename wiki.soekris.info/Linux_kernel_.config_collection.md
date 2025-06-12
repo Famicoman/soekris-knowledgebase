@@ -13,4 +13,4 @@ This page contain a lot of GNU/Linux .config file, useful for all people!
 * Soekris 6501
 	+ [Kernel 2.6.32 from source on Debian](Kernel_2.6.32_from_source_on_Debian.md "Kernel 2.6.32 from source on Debian") - Lightweight kernel package with all bells at a 300% size reduction
 
-[Net4801](Category_Net4801.md "Category_Net4801") | [Net5501](Category_Net5501.md "Category_Net5501")
+Categories: [Net4801](Category_Net4801.md "Category_Net4801") | [Net5501](Category_Net5501.md "Category_Net5501")
