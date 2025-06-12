@@ -1,0 +1,140 @@
+comBIOS vers 1.41c
+
+  * fixed incorrect cpu clock on net6501
+
+comBIOS vers 1.41
+
+  * fixed BIOS int15 func 87 handling more than 16M
+  * added USB Boot code
+  * BIOS mptable now correct, and HT enabled
+  * Soft Reboot issue fixed
+  * comBIOS update code fixed
+  * uManager vers 0.63 included
+
+comBIOS vers 1.40
+
+  * first release for net6501
+
+comBIOS vers 1.33
+
+  * fixed BIOS int15 func 86
+  * add "cpuspeed" in monitor
+    "set cpuspeed=default | xxx"
+    for net4801 & net5501, xxx=200-cpumax+33
+
+comBIOS vers 1.32i
+
+  * fixed PCI config byte/word write handling (IDE DMA enable)
+
+comBIOS vers 1.32h
+
+  * fixed IDE DMA enable issue on net5501
+  * fixed soft reboot issue on net5501
+  * change initial clear screen to scroll lines
+
+comBIOS vers 1.32d
+
+  * fixed incorrect USB 2.0 reporting on net5501
+  * fixed bug disabling SATA interface on net5501
+
+comBIOS vers 1.32
+
+  * release version
+
+comBIOS vers 1.31b
+
+  * fixed bug from 1.31 in CPU detect code for net45xx (disabled CPU cache)
+
+comBIOS vers 1.31
+
+  * faster memory test
+  * added support for net5501
+  * changes to CPU detect code
+
+comBIOS vers 1.30
+
+  * fixed bug from 1.29 with LBA disk translation
+  * fixed net48xx Serial COM1 RI noise SMI lockup
+
+comBIOS vers 1.29
+
+  * added support for new BIOS flash chip for net48xx
+  * fixed incorrect display of large disk sizes
+  * fixed reset timing issue with some CompactFlash modules when rebooting
+
+comBIOS vers 1.28
+
+  * added "bootdrive" setting in monitor
+    "set bootdrive=80 81 F0", try booting hd0, hd1, net in sequence,
+     (default setting), up to 4 drives.
+  * added "fastboot" setting in monitor
+    "set fastboot=disabled | enabled", cut POST to about 2 seconds.
+    warning: you then need to be quick with ctrl-P to enter the monitor.
+  * fixed 4 sec wait with some CompactFlash modules on net4801 boards
+  * fixed memory detect issue on some net48xx boards
+
+comBIOS vers 1.27a
+
+  * fixed IRQ assignment for 2nd Mini-PCI slot on net4826
+
+comBIOS vers 1.27
+
+  * added support for net4826
+  * new Geode VSA code for net48xx
+  * new "run" function in monitor
+
+comBIOS vers 1.26a
+
+  * Update for net45xx to fix CF issue introduced in 1.26
+
+comBIOS vers 1.26
+
+  * improved support for PCI option ROM's
+  * updated PXE boot code
+  * improved int10/int16 serial console emulater
+
+comBIOS vers 1.25
+
+  * fixed IRQ allocation problem with PCI-PCI bridges
+
+comBIOS vers 1.24
+
+  * added BIOS function int15 E820 System Memory Map (for OpenBSD)
+
+comBIOS vers 1.23a
+
+  * fixed net45xx reboot issue
+
+comBIOS vers 1.23
+
+  * fixed net4801 reboot issue
+
+comBIOS vers 1.22
+
+  * IDE code reworked, should fix most if not all problems with non
+    working Compact Flash Modules.
+  * download function now use CRC check instead of checksum, you can
+    still select checksum by using "download -".
+  * support added for GPIO and temperature/voltage monitor on net4801.
+  * support added for reset switch on net4801.
+  * DTR and RTS now asserted duing POST on monitor serial port.
+
+comBIOS vers 1.21
+
+  * PCI chipset config problem fixed on net4801.
+
+comBIOS vers 1.20
+
+  * support added for net4801.
+  * new architecture for download file format.
+  * problem configuring multi-functions PCI cards fixed.
+
+comBIOS vers 1.16
+
+  * console port can be muted during post with
+    "set conmute=disabled | enabled", ctrl-P can still be used for
+    entering monitor.
+
+comBIOS vers 1.15a
+
+  * serial port timing issue fixed on net45xx.
