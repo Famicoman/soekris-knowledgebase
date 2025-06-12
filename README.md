@@ -6,7 +6,7 @@ Collecting information about Soekris Engineering hardware.
 
 Select pages converted from https://web.archive.org/web/20250518234722/https://www.soekris.com/, https://web.archive.org/web/20160303171236/http://soekris.com/, and http://users.rcn.com/soren.dnai/
 
-* [Downloads](soekris.com/downloads.md]
+* [Downloads](soekris.com/downloads.md)
 * Products
     - [net4501 Product Range](soekris.com/products/net4501.md)
 	- [net4511 Product Range](soekris.com/products/net4511.md)
@@ -22,6 +22,8 @@ Select pages converted from https://web.archive.org/web/20250518234722/https://w
 	- [vpn12x1 Product Range](soekris.com/products/vpn12x1.md)
 	- [vpn14x1 Product Range](soekris.com/products/vpn14x1.md)
 
-## [wiki.soekris.info](wiki.soekris.info/README.md)
+## wiki.soekris.info
 
 wiki.soekris.info converted to markdown from https://web.archive.org/web/20190726151716/http://wiki.soekris.info/Main_Page
+
+* [wiki.soekris.info](wiki.soekris.info/README.md)
