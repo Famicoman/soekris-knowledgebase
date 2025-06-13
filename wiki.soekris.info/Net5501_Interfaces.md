@@ -69,7 +69,7 @@ In the following, all references are seen from the TOP of the board. The "front"
 | GPIO 13, 55 | GPIO 10 | 15 | 16 | GPIO 11 | GPIO 12, 54 |
 |  -- | GND | 17 | 18 | RXD | SIN 2, 105 |
 | SOUT 2, 107 | TXD | 19 | 20 | GND | -- |
-* All the JP5 GPIO pins provide 3.3V out and are 5V input tolerant.*
+*All the JP5 GPIO pins provide 3.3V out and are 5V input tolerant.*
 
  **JP5** - GPIO / User IO
  Shrouded 20-pin 2-row 0.100" header (pictured below). See the [4801 hardware manual](https://web.archive.org/web/20180811114021/http://www.soekris.com/manuals/net4801_manual.pdf "http://www.soekris.com/manuals/net4801_manual.pdf") for details. JP5 is connected directly to the PC87366 Multi-IO chip, see the [PC87366 data sheet](https://web.archive.org/web/20180811114021/http://www.datasheetcatalog.com/datasheets_pdf/P/C/8/7/PC87366.shtml "http://www.datasheetcatalog.com/datasheets_pdf/P/C/8/7/PC87366.shtml") for more information. 
@@ -87,8 +87,7 @@ In the following, all references are seen from the TOP of the board. The "front"
 | --- | -------- | --- |
 | 1 | +3.3 V | Common. |
 | 2 | Power On LED | This green LED will be on when there is applied power to the board. |
-| 3 | Error LED | This red LED is connected to the CS5536 companion chip GPIO6, ball D2. It is connected so that it will be on at power on, and can then be turned off and on by software control.
-When programming GPIO6 with a 0, it will be off. The BIOS will normally turn it off just before booting an operating system. |
+| 3 | Error LED | This red LED is connected to the CS5536 companion chip GPIO6, ball D2. It is connected so that it will be on at power on, and can then be turned off and on by software control. When programming GPIO6 with a 0, it will be off. The BIOS will normally turn it off just before booting an operating system. |
 | 4 | Disk Activity LED | This yellow LED will be on when there is disk activity, either by the CompactFlash module or the optional Hard Disk. |
 *low when active*
 

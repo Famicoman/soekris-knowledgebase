@@ -39,4 +39,4 @@ net5501 also includes a simple OS-independent reboot facility over the serial co
 Based on a soekris-tech post, the AVI6 sensor is connected to 2.5V power rail, used by the DDR memory chips, otherwise sensors are like the net4801.
 
 
-Many more details about the connectors and interfaces have been collected in the [5501 Interfaces.md](5501_Interfaces "5501 Interfaces") page. The pinout of the GPIO connector is identical to net4801 (note that the manual identifies GPIO lines with numbers in octal, as with the datasheet for the IC; some OS identify GPIO lines in decimal).
+Many more details about the connectors and interfaces have been collected in the [Net5501_Interfaces.md](5501_Interfaces "5501 Interfaces") page. The pinout of the GPIO connector is identical to net4801 (note that the manual identifies GPIO lines with numbers in octal, as with the datasheet for the IC; some OS identify GPIO lines in decimal).
